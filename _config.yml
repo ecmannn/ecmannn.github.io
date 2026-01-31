@@ -23,7 +23,7 @@ repository               : "ecmannn/ecmannn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "/profile.png"
   name             : "Evan Mann"
   pronouns         : "he/him"  
   bio              : "PhD Student in Political Science"
