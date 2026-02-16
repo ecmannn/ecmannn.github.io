@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+You can download my CV **[here](/files/main_CV.pdf)**.
+
 <div style="margin-top: 1rem;">
   <iframe
     src="/files/main_CV.pdf"
@@ -14,6 +16,3 @@ author_profile: true
   >
   </iframe>
 </div>
-
-
-You can download my CV **[here](/files/main_CV.pdf)**.
