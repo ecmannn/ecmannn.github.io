@@ -11,8 +11,8 @@ author_profile: true
 I welcome drop-ins as well as appointments reserved at the link above. If none of the times work, please feel free to email me and suggest some times that work for you: ecmann@ucsd.edu.
 
 ## UC San Diego
-
 ## Teaching Assistant w/ Sections
+- Political Inquiry (Spring 2026)
 - Introduction to International Relations (Fall 2025)
 - Bending the Curve: Solutions to Climate Change (Summer 2025)
 

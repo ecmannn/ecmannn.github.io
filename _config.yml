@@ -27,10 +27,15 @@ author:
   name             : "Evan Mann"
   pronouns         : "he/him"  
   bio              : "PhD Student in Political Science"
-  location         : #"San Diego"
+  location         : "SSB 323"
   employer         : "UC San Diego"
   uri              : # URL
-  email            : "ecmann@ucsd.edu" 
+  #email            : "ecmann@ucsd.edu" 
+  links:
+    - label: "ecmann@ucsd.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ecmann@ucsd.edu"
+
 
   # Academic websites
   academia         : # URL
