@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-You can download my CV **[here](/files/main_CV.pdf)**.
+You can download my CV **[here](/files/Mann_Evan_CV.pdf)**.
 
 <div style="margin-top: 1rem;">
   <iframe
