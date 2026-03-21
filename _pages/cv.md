@@ -9,7 +9,7 @@ You can download my CV **[here](/files/Mann_Evan_CV.pdf)**.
 
 <div style="margin-top: 1rem;">
   <iframe
-    src="/files/main_CV.pdf"
+    src="/files/Mann_Evan_CV"
     width="100%"
     height="1100px"
     style="border: 1px solid #ddd; border-radius: 8px;"
