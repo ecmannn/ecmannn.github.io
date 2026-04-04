@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Office Hours
-[Sign-up Link](https://calendar.app.google/uifMv3AAffP7SpnZ7){: .btn .btn--primary .btn--large target="_blank" rel="noopener"}
+[Sign-up Link](https://calendar.app.google/rmGNhUu2MAoBU1CQ8){: .btn .btn--primary .btn--large target="_blank" rel="noopener"}
 
 I welcome drop-ins as well as appointments reserved at the link above. If none of the times work, please feel free to email me and suggest some times that work for you: ecmann@ucsd.edu.
 
