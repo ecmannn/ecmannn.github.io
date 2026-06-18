@@ -5,9 +5,9 @@ title: "About"
 permalink: /
 ---
 
-I'm a third-year Ph.D. student in the Department of Political Science and the School of Global Policy and Strategy at UC San Diego.
+I'm a fourth-year Ph.D. student in the Department of Political Science and the School of Global Policy and Strategy at UC San Diego.
 
-My research interests include trade, technology, and democracy, with a general focus on the political economy of globalization.
+My research interests include international trade, emerging technology, and democratic backslidingg, with a general focus on the political economy of globalization. My dissertation project examines the domestic politics of dual-use export controls, aruing that domestic coalition building processes explain the extreme variations in national security-focused export controls. By exposing a levels of analysis mismatch between the economic motivations for free trade (local/district/county) and the security motivations for export controls (national), this prospectus opens a previously unexplored avenue for understanding the existence of and acceptable "performance gap" for dual-use export controls. 
 
 I recieved my B.A. in Political Science / International Relations from UC San Diego, graduating *magna cum laude* and with High Honors, and I recieved my M.A. in Democracy and Governance from Georgetown University, where I graduated with High Honors. 
 
