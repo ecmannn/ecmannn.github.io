@@ -10,14 +10,16 @@ author_profile: true
 
 I welcome drop-ins as well as appointments reserved at the link above. If none of the times work, please feel free to email me and suggest some times that work for you: ecmann@ucsd.edu.
 
-## UC San Diego
-## Teaching Assistant w/ Sections
-- Political Inquiry (Spring 2026)
-- Introduction to International Relations (Fall 2025)
-- Bending the Curve: Solutions to Climate Change (Summer 2025)
+# UC San Diego
+<!-- ## Teaching Assistant w/ Sections
+- 
+- 
+- 
+-  -->
 
 ## Teaching Assistant
 ### International Relations
+- Introduction to International Relations **(w/ Section)** (Fall 2025)
 - Politics and Warfare (Summer 2025)
 - Spies, Intelligence, and National Security (Fall 2024)
 - Weapons of Mass Destruction (Spring 2024)
@@ -25,11 +27,17 @@ I welcome drop-ins as well as appointments reserved at the link above. If none o
 
 ### Comparative Politics
 - Politics of Human Rights (Winter 2026)
+- Bending the Curve: Solutions to Climate Change **(w/ Section)** (Summer 2025)
 - Populism and Democracy (Winter 2025)
 - Politics of Development (Winter 2024 / Winter 2025)
 
 ### Political Methodology
+- Political Inquiry **(w/ Section)** (Spring 2026)
 - Algorithms, Public Policy, and Ethics (Spring 2025)
+
+### Political Theory
+- Ethics and Society **(w/ Section)** (Summer 2026)
+- Marxist Political Thought (Summer 2025)
 
 
 <!-- ## Materials

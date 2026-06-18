@@ -6,13 +6,14 @@ author_profile: true
 --- 
 
 ## Under Review
-- **Climate Change, Arctic Trade Routes, and Overseas Military Bases.** (w/ Erik Gartzke). *R&R at PNAS (11/2025).*  
+- **Global Trade and Interstate Conflict: The Indirect Origins of Liberal Peace.** (w/ Erik Gartzke). Submitted at IO (08/2025)
   <!-- [PDF](#) · [Code](#) -->
   
 ## Working Papers
+- **The Domestic Politics of Dual-Use Export Controls.**
 - **The Missing Link: International Determinants of Democratic Backsliding.** 
+- **Climate Change, Arctic Trade Routes, and Overseas Military Bases.** (w/ Erik Gartzke).
 - **The Political Geography of Militarized Interstate Conflict: How Trade Shapes the Location of Military Bases.”** (w/ Erik Gartzke). 
-- **Global Trade and Interstate Conflict: The Indirect Origins of Liberal Peace.** (w/ Erik Gartzke).
 - **From Ballots to Firewalls: Democratic Backsliding and Digital Repression.**
 
 ## Other Publications
