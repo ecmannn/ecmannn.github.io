@@ -158,6 +158,12 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
+      // enlarge into a gentle vertical oval so the avatar fills the sidebar;
+      // object-fit keeps the square, face-centered crop undistorted
+      width: 185px;
+      height: 220px;
+      max-width: none;
+      object-fit: cover;
       padding: 5px;
       border: 1px solid var(--global-border-color);
     }
