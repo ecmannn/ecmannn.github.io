@@ -11,4 +11,51 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
+<!-- Copy the author email to the clipboard instead of relying on a mailto: handler -->
+<script>
+  (function () {
+    function fallbackCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      try { document.execCommand("copy"); } catch (err) {}
+      document.body.removeChild(area);
+    }
+
+    var links = document.querySelectorAll(".js-copy-email");
+    Array.prototype.forEach.call(links, function (link) {
+      if (link.dataset.copyBound) { return; }
+      link.dataset.copyBound = "true";
+
+      link.addEventListener("click", function (event) {
+        var email = link.getAttribute("data-email");
+        if (!email) { return; }
+        event.preventDefault();
+
+        var label = link.querySelector(".js-copy-email-label");
+        var original = label ? label.textContent : null;
+        function confirmCopy() {
+          if (!label) { return; }
+          label.textContent = "Copied!";
+          window.setTimeout(function () { label.textContent = original; }, 1500);
+        }
+
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(email).then(confirmCopy, function () {
+            fallbackCopy(email);
+            confirmCopy();
+          });
+        } else {
+          fallbackCopy(email);
+          confirmCopy();
+        }
+      });
+    });
+  })();
+</script>
+
 <!-- end custom footer snippets -->

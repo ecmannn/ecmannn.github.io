@@ -29,6 +29,7 @@ author:
   bio              : "PhD Student in Political Science"
   employer         : "UC San Diego"
   location         : "SSB 323"
+  location_url     : "https://www.google.com/maps/search/?api=1&query=UC+San+Diego+Social+Sciences+Building&query_place_id=ChIJmfHxdeoG3IARbCn9Zq-PJ0M"
   uri              : # URL
   email            : "ecmann@ucsd.edu" 
   # links:
