@@ -1,106 +1,363 @@
 {
   "fetched_at": "2026-07-22",
-  "time_range": "short_term",
-  "tracks": [
-    {
-      "rank": 1,
-      "name": "covet",
-      "artist": "sace6",
-      "album": "brutalist",
-      "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-      "spotify_url": "https://open.spotify.com/track/75F1PnYhdRwu83aSi4y7O1",
-      "youtube_video_id": "4Nn4Surv5xo",
-      "youtube_url": "https://www.youtube.com/watch?v=4Nn4Surv5xo"
-    },
-    {
-      "rank": 2,
-      "name": "Gemini",
-      "artist": "Loathe",
-      "album": "A Stranger To You",
-      "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
-      "spotify_url": "https://open.spotify.com/track/6LTYK7W6hFQh3gkKMd5Afw",
-      "youtube_video_id": "OUwxsLXuk4E",
-      "youtube_url": "https://www.youtube.com/watch?v=OUwxsLXuk4E"
-    },
-    {
-      "rank": 3,
-      "name": "uneven",
-      "artist": "sace6",
-      "album": "brutalist",
-      "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-      "spotify_url": "https://open.spotify.com/track/2FV7Ci0Fx2UgH0KOZQuRoM",
-      "youtube_video_id": "QnrZJqIfhbA",
-      "youtube_url": "https://www.youtube.com/watch?v=QnrZJqIfhbA"
-    },
-    {
-      "rank": 4,
-      "name": "dolorous",
-      "artist": "sace6",
-      "album": "brutalist",
-      "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-      "spotify_url": "https://open.spotify.com/track/3XDEv0uxLtvHUNRDqiHEP5",
-      "youtube_video_id": "ejY4L3PohpM",
-      "youtube_url": "https://www.youtube.com/watch?v=ejY4L3PohpM"
-    },
-    {
-      "rank": 5,
-      "name": "nepenthe",
-      "artist": "sace6",
-      "album": "brutalist",
-      "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-      "spotify_url": "https://open.spotify.com/track/25jsM8QzO8gg4uo0p0wNjf",
-      "youtube_video_id": "P94t0pDat3U",
-      "youtube_url": "https://www.youtube.com/watch?v=P94t0pDat3U"
-    },
-    {
-      "rank": 6,
-      "name": "besotted",
-      "artist": "sace6",
-      "album": "brutalist",
-      "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-      "spotify_url": "https://open.spotify.com/track/2ujCkCa8ncEhOT5G1uIunZ",
-      "youtube_video_id": "qb13oCjicKc",
-      "youtube_url": "https://www.youtube.com/watch?v=qb13oCjicKc"
-    },
-    {
-      "rank": 7,
-      "name": "fabulist",
-      "artist": "sace6",
-      "album": "brutalist",
-      "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-      "spotify_url": "https://open.spotify.com/track/3IVKMvS0Pt9a7DXMW1TsCb",
-      "youtube_video_id": "xaIf2BnW_BM",
-      "youtube_url": "https://www.youtube.com/watch?v=xaIf2BnW_BM"
-    },
-    {
-      "rank": 8,
-      "name": "Stay Still",
-      "artist": "Ice Sealed Eyes",
-      "album": "Tape 1: Far Away",
-      "album_art": "https://i.scdn.co/image/ab67616d00001e02356cc4017bfc34cd8132f314",
-      "spotify_url": "https://open.spotify.com/track/4DmOY29ltxyg8uN4Ydx7Hb",
-      "youtube_video_id": "_Xsg9P0f2ng",
-      "youtube_url": "https://www.youtube.com/watch?v=_Xsg9P0f2ng"
-    },
-    {
-      "rank": 9,
-      "name": "perfidy",
-      "artist": "sace6",
-      "album": "brutalist",
-      "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-      "spotify_url": "https://open.spotify.com/track/2TGBq8L3nkgm0hBnLGItKw",
-      "youtube_video_id": "7VPmgfVzKyM",
-      "youtube_url": "https://www.youtube.com/watch?v=7VPmgfVzKyM"
-    },
-    {
-      "rank": 10,
-      "name": "Dove",
-      "artist": "Karmanjakah",
-      "album": "Diamond morning",
-      "album_art": "https://i.scdn.co/image/ab67616d00001e022803aa9386483ae5ce3ba0c0",
-      "spotify_url": "https://open.spotify.com/track/2qI81FIePMJo8ed8a4kkU8",
-      "youtube_video_id": "6j-XJuRRY78",
-      "youtube_url": "https://www.youtube.com/watch?v=6j-XJuRRY78"
-    }
-  ]
+  "month": {
+    "time_range": "short_term",
+    "tracks": [
+      {
+        "rank": 1,
+        "name": "covet",
+        "artist": "sace6",
+        "album": "brutalist",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+        "spotify_url": "https://open.spotify.com/track/75F1PnYhdRwu83aSi4y7O1",
+        "youtube_video_id": "4Nn4Surv5xo",
+        "youtube_url": "https://www.youtube.com/watch?v=4Nn4Surv5xo"
+      },
+      {
+        "rank": 2,
+        "name": "Gemini",
+        "artist": "Loathe",
+        "album": "A Stranger To You",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
+        "spotify_url": "https://open.spotify.com/track/6LTYK7W6hFQh3gkKMd5Afw",
+        "youtube_video_id": "OUwxsLXuk4E",
+        "youtube_url": "https://www.youtube.com/watch?v=OUwxsLXuk4E"
+      },
+      {
+        "rank": 3,
+        "name": "uneven",
+        "artist": "sace6",
+        "album": "brutalist",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+        "spotify_url": "https://open.spotify.com/track/2FV7Ci0Fx2UgH0KOZQuRoM",
+        "youtube_video_id": "sblRS6kgiyU",
+        "youtube_url": "https://www.youtube.com/watch?v=sblRS6kgiyU"
+      },
+      {
+        "rank": 4,
+        "name": "dolorous",
+        "artist": "sace6",
+        "album": "brutalist",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+        "spotify_url": "https://open.spotify.com/track/3XDEv0uxLtvHUNRDqiHEP5",
+        "youtube_video_id": "ejY4L3PohpM",
+        "youtube_url": "https://www.youtube.com/watch?v=ejY4L3PohpM"
+      },
+      {
+        "rank": 5,
+        "name": "nepenthe",
+        "artist": "sace6",
+        "album": "brutalist",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+        "spotify_url": "https://open.spotify.com/track/25jsM8QzO8gg4uo0p0wNjf",
+        "youtube_video_id": "P94t0pDat3U",
+        "youtube_url": "https://www.youtube.com/watch?v=P94t0pDat3U"
+      },
+      {
+        "rank": 6,
+        "name": "besotted",
+        "artist": "sace6",
+        "album": "brutalist",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+        "spotify_url": "https://open.spotify.com/track/2ujCkCa8ncEhOT5G1uIunZ",
+        "youtube_video_id": "qb13oCjicKc",
+        "youtube_url": "https://www.youtube.com/watch?v=qb13oCjicKc"
+      },
+      {
+        "rank": 7,
+        "name": "fabulist",
+        "artist": "sace6",
+        "album": "brutalist",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+        "spotify_url": "https://open.spotify.com/track/3IVKMvS0Pt9a7DXMW1TsCb",
+        "youtube_video_id": "8S2TNStUWgc",
+        "youtube_url": "https://www.youtube.com/watch?v=8S2TNStUWgc"
+      },
+      {
+        "rank": 8,
+        "name": "Entrance",
+        "artist": "Loathe, bucki sugar",
+        "album": "A Stranger To You",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
+        "spotify_url": "https://open.spotify.com/track/3fbxw3kKc1DXur3hxgTdXA",
+        "youtube_video_id": "aRjpJmg3Rz4",
+        "youtube_url": "https://www.youtube.com/watch?v=aRjpJmg3Rz4"
+      },
+      {
+        "rank": 9,
+        "name": "Stay Still",
+        "artist": "Ice Sealed Eyes",
+        "album": "Tape 1: Far Away",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02356cc4017bfc34cd8132f314",
+        "spotify_url": "https://open.spotify.com/track/4DmOY29ltxyg8uN4Ydx7Hb",
+        "youtube_video_id": "_Xsg9P0f2ng",
+        "youtube_url": "https://www.youtube.com/watch?v=_Xsg9P0f2ng"
+      },
+      {
+        "rank": 10,
+        "name": "perfidy",
+        "artist": "sace6",
+        "album": "brutalist",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+        "spotify_url": "https://open.spotify.com/track/2TGBq8L3nkgm0hBnLGItKw",
+        "youtube_video_id": "7VPmgfVzKyM",
+        "youtube_url": "https://www.youtube.com/watch?v=7VPmgfVzKyM"
+      }
+    ]
+  },
+  "year": {
+    "time_range": "long_term",
+    "tracks": [
+      {
+        "rank": 1,
+        "name": "Whatever Alright",
+        "artist": "vianova",
+        "album": "Hit It!",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02daeb2cc78f4a1335ffe9ea6f",
+        "spotify_url": "https://open.spotify.com/track/18orpkCnIdbjRFgL09wvIn",
+        "youtube_video_id": "o-SURLJL-Tg",
+        "youtube_url": "https://www.youtube.com/watch?v=o-SURLJL-Tg"
+      },
+      {
+        "rank": 2,
+        "name": "Squier Talk",
+        "artist": "vianova",
+        "album": "Hit It!",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02daeb2cc78f4a1335ffe9ea6f",
+        "spotify_url": "https://open.spotify.com/track/19LMSiPAc1Prev4mLWdDFt",
+        "youtube_video_id": "cBu89Oo01RI",
+        "youtube_url": "https://www.youtube.com/watch?v=cBu89Oo01RI"
+      },
+      {
+        "rank": 3,
+        "name": "Past Self",
+        "artist": "Sleep Token",
+        "album": "Even In Arcadia",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02882265cd9bdded9ea9a153b9",
+        "spotify_url": "https://open.spotify.com/track/0Uvf2v96tJ5CuyK0LtyAgd",
+        "youtube_video_id": "GSkY_xmkoYg",
+        "youtube_url": "https://www.youtube.com/watch?v=GSkY_xmkoYg"
+      },
+      {
+        "rank": 4,
+        "name": "Apparition",
+        "artist": "God Is An Astronaut",
+        "album": "Embers",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ca3f5d8ba8f46287dd4fa657",
+        "spotify_url": "https://open.spotify.com/track/10gnT8bebmECAxdohax2HX",
+        "youtube_video_id": "tCCCm084UVA",
+        "youtube_url": "https://www.youtube.com/watch?v=tCCCm084UVA"
+      },
+      {
+        "rank": 5,
+        "name": "Look To Windward",
+        "artist": "Sleep Token",
+        "album": "Even In Arcadia",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02882265cd9bdded9ea9a153b9",
+        "spotify_url": "https://open.spotify.com/track/4Lojbtk7XNMdSKRHSFbdkm",
+        "youtube_video_id": "Qw0bebAzsYc",
+        "youtube_url": "https://www.youtube.com/watch?v=Qw0bebAzsYc"
+      },
+      {
+        "rank": 6,
+        "name": "Caramel",
+        "artist": "Sleep Token",
+        "album": "Even In Arcadia",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02882265cd9bdded9ea9a153b9",
+        "spotify_url": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1",
+        "youtube_video_id": "4iSvoQNfrrk",
+        "youtube_url": "https://www.youtube.com/watch?v=4iSvoQNfrrk"
+      },
+      {
+        "rank": 7,
+        "name": "Character Development (Cold Start)",
+        "artist": "156/Silence",
+        "album": "People Watching",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02049b3adcd9d9f926e91df19c",
+        "spotify_url": "https://open.spotify.com/track/0BRvW4hfXMNBQoK6OAQPsa",
+        "youtube_video_id": "naqH83OXsfw",
+        "youtube_url": "https://www.youtube.com/watch?v=naqH83OXsfw"
+      },
+      {
+        "rank": 8,
+        "name": "Dangerous",
+        "artist": "Sleep Token",
+        "album": "Even In Arcadia",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02882265cd9bdded9ea9a153b9",
+        "spotify_url": "https://open.spotify.com/track/105Fwh9wijwT41rrfgSnrE",
+        "youtube_video_id": "pM1ap2eOHsk",
+        "youtube_url": "https://www.youtube.com/watch?v=pM1ap2eOHsk"
+      },
+      {
+        "rank": 9,
+        "name": "Feeding the Gods",
+        "artist": "Wind Walkers",
+        "album": "What If I Break?",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021dba984405b9c9d33e03b0d4",
+        "spotify_url": "https://open.spotify.com/track/7BjldKkYK4xq15kANIHhPT",
+        "youtube_video_id": "A4iy3WrmsBk",
+        "youtube_url": "https://www.youtube.com/watch?v=A4iy3WrmsBk"
+      },
+      {
+        "rank": 10,
+        "name": "Odyssey",
+        "artist": "God Is An Astronaut",
+        "album": "Embers",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ca3f5d8ba8f46287dd4fa657",
+        "spotify_url": "https://open.spotify.com/track/2SCG9jZw6KxSI04bAtc17M",
+        "youtube_video_id": "e1KtsfFSgxk",
+        "youtube_url": "https://www.youtube.com/watch?v=e1KtsfFSgxk"
+      },
+      {
+        "rank": 11,
+        "name": "Target Acquired",
+        "artist": "156/Silence",
+        "album": "People Watching",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02049b3adcd9d9f926e91df19c",
+        "spotify_url": "https://open.spotify.com/track/1ypsN0FjjCt3gHrZzDd2ux",
+        "youtube_video_id": "YEKwDbbbjGY",
+        "youtube_url": "https://www.youtube.com/watch?v=YEKwDbbbjGY"
+      },
+      {
+        "rank": 12,
+        "name": "Dreamstate",
+        "artist": "Dayseeker",
+        "album": "Dark Sun",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02386e4e938647ef307de72919",
+        "spotify_url": "https://open.spotify.com/track/1BKShyqTh9TDWc3dFHYXkF",
+        "youtube_video_id": "7abxfS42lqs",
+        "youtube_url": "https://www.youtube.com/watch?v=7abxfS42lqs"
+      },
+      {
+        "rank": 13,
+        "name": "KINDA HARD",
+        "artist": "Bilmuri",
+        "album": "KINDA HARD",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ab5c740ea3df3df9c49f0793",
+        "spotify_url": "https://open.spotify.com/track/5NlskuFW0PJykKL7yd8j9K",
+        "youtube_video_id": "FncfMa-Umcs",
+        "youtube_url": "https://www.youtube.com/watch?v=FncfMa-Umcs"
+      },
+      {
+        "rank": 14,
+        "name": "In the Name of the Father",
+        "artist": "PRESIDENT",
+        "album": "King Of Terrors",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02dd96ed79ad68a9f311300d51",
+        "spotify_url": "https://open.spotify.com/track/6BiS7gcDbvELNrAa0OcI4P",
+        "youtube_video_id": "iSrotkQCACg",
+        "youtube_url": "https://www.youtube.com/watch?v=iSrotkQCACg"
+      },
+      {
+        "rank": 15,
+        "name": "Falling Leaves",
+        "artist": "God Is An Astronaut",
+        "album": "Embers",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ca3f5d8ba8f46287dd4fa657",
+        "spotify_url": "https://open.spotify.com/track/2t141HAchHp0nX6YyrUKLt",
+        "youtube_video_id": "NoSSmzA7NGs",
+        "youtube_url": "https://www.youtube.com/watch?v=NoSSmzA7NGs"
+      },
+      {
+        "rank": 16,
+        "name": "Even In Arcadia",
+        "artist": "Sleep Token",
+        "album": "Even In Arcadia",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02882265cd9bdded9ea9a153b9",
+        "spotify_url": "https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo",
+        "youtube_video_id": "qRL24yVx6Vw",
+        "youtube_url": "https://www.youtube.com/watch?v=qRL24yVx6Vw"
+      },
+      {
+        "rank": 17,
+        "name": "Product Placement",
+        "artist": "156/Silence",
+        "album": "People Watching",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02049b3adcd9d9f926e91df19c",
+        "spotify_url": "https://open.spotify.com/track/0SQg8JQfiNucPIXSjDIHq7",
+        "youtube_video_id": "icGYmqA82q8",
+        "youtube_url": "https://www.youtube.com/watch?v=icGYmqA82q8"
+      },
+      {
+        "rank": 18,
+        "name": "Silently Walking Alone",
+        "artist": "Leprous",
+        "album": "Melodies Of Atonement",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020c413c41d49a0b1682c1dbbd",
+        "spotify_url": "https://open.spotify.com/track/44HAQ7qknqh7Tk7A4Dt7g6",
+        "youtube_video_id": "wsLXRWIN640",
+        "youtube_url": "https://www.youtube.com/watch?v=wsLXRWIN640"
+      },
+      {
+        "rank": 19,
+        "name": "Emergence",
+        "artist": "Sleep Token",
+        "album": "Emergence",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e028da7083b2e034d220a89b4be",
+        "spotify_url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6",
+        "youtube_video_id": "JJpFTUP6fIo",
+        "youtube_url": "https://www.youtube.com/watch?v=JJpFTUP6fIo"
+      },
+      {
+        "rank": 20,
+        "name": "Damocles",
+        "artist": "Sleep Token",
+        "album": "Even In Arcadia",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02882265cd9bdded9ea9a153b9",
+        "spotify_url": "https://open.spotify.com/track/3enIFKYJKSVyjXVzmup28I",
+        "youtube_video_id": "0NDqYZVbpho",
+        "youtube_url": "https://www.youtube.com/watch?v=0NDqYZVbpho"
+      },
+      {
+        "rank": 21,
+        "name": "Better Written Villain",
+        "artist": "156/Silence",
+        "album": "People Watching",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02049b3adcd9d9f926e91df19c",
+        "spotify_url": "https://open.spotify.com/track/6BuRHBZMDfvvp87RCvc1fA",
+        "youtube_video_id": "Il7wqxtIOK0",
+        "youtube_url": "https://www.youtube.com/watch?v=Il7wqxtIOK0"
+      },
+      {
+        "rank": 22,
+        "name": "Embers",
+        "artist": "God Is An Astronaut",
+        "album": "Embers",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ca3f5d8ba8f46287dd4fa657",
+        "spotify_url": "https://open.spotify.com/track/1vcRcYhgtt2u5HKLXxbfek",
+        "youtube_video_id": "bENpTaK6F1Q",
+        "youtube_url": "https://www.youtube.com/watch?v=bENpTaK6F1Q"
+      },
+      {
+        "rank": 23,
+        "name": "Gethsemane",
+        "artist": "Sleep Token",
+        "album": "Even In Arcadia",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02882265cd9bdded9ea9a153b9",
+        "spotify_url": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO",
+        "youtube_video_id": "EuwLeCs9z2o",
+        "youtube_url": "https://www.youtube.com/watch?v=EuwLeCs9z2o"
+      },
+      {
+        "rank": 24,
+        "name": "Heart of Roots",
+        "artist": "God Is An Astronaut",
+        "album": "Embers",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ca3f5d8ba8f46287dd4fa657",
+        "spotify_url": "https://open.spotify.com/track/4ufZqtlj9u8QbmkV4XR25K",
+        "youtube_video_id": "jH0kjhLIvEw",
+        "youtube_url": "https://www.youtube.com/watch?v=jH0kjhLIvEw"
+      },
+      {
+        "rank": 25,
+        "name": "THE END",
+        "artist": "Bilmuri",
+        "album": "AMERICAN MOTOR SPORTS (420CC EDITION)",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02fcf006bca01f1922127afb64",
+        "spotify_url": "https://open.spotify.com/track/1u8esuXKqxbKsleihNp7wo",
+        "youtube_video_id": "wD9UdaXcV5g",
+        "youtube_url": "https://www.youtube.com/watch?v=wD9UdaXcV5g"
+      }
+    ]
+  }
 }
