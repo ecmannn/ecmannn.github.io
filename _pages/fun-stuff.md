@@ -14,14 +14,14 @@ author_profile: true
   .fun-hero img { display: block; width: 220px; max-width: 100%; height: auto; border-radius: 8px; }
 </style>
 <div class="fun-hero" markdown="1">
-When I'm not working or spending time with my partner and our dog, I am playing music (mainly drums but also guitar and bass), hiking, or building random workflows or messing with technology (really, what I'd ***like*** to believe is "productive procrastination"). This page serves as a home for some of my hobbies, and I hope you enjoy a (small) window into my brain outside of work!
+When I'm not working or spending time with my partner and our dog, I am playing music (mainly drums but also guitar and bass), playing video games, hiking, or building random workflows or messing with technology (really, what I'd ***like*** to believe is "productive procrastination," but probably isn't ...). This page serves as a home for some of my hobbies, and I hope you enjoy a (small) window into my brain outside of work!
 
 <img src="{{ base_path }}/images/family.jpg" alt="Evan, his partner, and their dog">
 </div>
 
 ## Music
 
-My most played song on Spotify over a rolling four week period, automatically updated every Monday. Be warned; it will invariably be some kind of progressive modern metal, but sharing music is one of my favorite pasttimes. If you enjoy, or have other recommendations based on this list, I'd love to hear it!! I also created lists of my top ten over this window, and my top 25 of the year-to-date.
+Music has always been very important to me; it was a huge part of my life growing up, from playing piano in elementary school to picking up drums in freshman year of high school. It remains a cornerstone of my day-to-day life (to my delight but, at times, other's dismay; there's music playing at all time while I work). To share this part of my life, I used the Spotify API to display my most played song over a rolling four week period, which automatically updates every Monday. Be warned; it will invariably be some kind of progressive modern metal, but sharing music is one of my favorite pasttimes. I hope you enjoy, and if you have other recommendations (based on this list or not), I'd love to hear them!! I also created lists of my top ten over the time window, and my top 25 of the year-to-date; usually something more "listenable" slips in to these lists!!
 
 {% include spotify-top-tracks.html mode="teaser" %}
 
