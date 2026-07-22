@@ -6,20 +6,24 @@
   Two modes, selected by the `mode` include parameter:
 
     {% include spotify-top-tracks.html %}
-        Default (full widget): an "On repeat" heading, a subtitle, the full
-        ranked list of tracks (rank, album art, name, artist, Spotify + YouTube
-        links), and an "Updated" date. No embed. Used on the standalone Music
-        page (/fun-stuff/music/).
+        Default (full widget): two ranked lists -- top tracks this month
+        (short_term) and this year (long_term) -- each row carrying rank, album
+        art, name, artist, and Spotify + YouTube links, plus an "Updated" date.
+        No embed. Used on the standalone Music page (/fun-stuff/music/).
 
     {% include spotify-top-tracks.html mode="teaser" %}
         Teaser: the #1 track only -- a YouTube embed (or the album-art thumbnail
         when that track has no video) with a caption (name, artist, Spotify +
-        YouTube links) and a "Full top 10" link to /fun-stuff/music/. Emits no
+        YouTube links) and a "Full top 10 most played this month" link to
+        /fun-stuff/music/. Emits no
         heading, subtitle, list, or date, so it can sit under a Markdown heading
         on the Fun Stuff hub page.
 {% endcomment %}
 {% assign spotify = site.data.spotify %}
-{% if spotify and spotify.tracks and spotify.tracks.size > 0 %}
+{% comment %} Support both the current flat data file (tracks at top level) and the newer month/year shape. {% endcomment %}
+{% assign month = spotify.month | default: spotify %}
+{% assign year = spotify.year %}
+{% if month and month.tracks and month.tracks.size > 0 %}
 <section class="spotify-top">
   <style>
     .spotify-top { margin: 2em 0; }
@@ -43,7 +47,7 @@
   </style>
 
   {% if include.mode == "teaser" %}
-  {% assign top = spotify.tracks | first %}
+  {% assign top = month.tracks | first %}
   {% if top.youtube_video_id %}
   <div class="spotify-top__embed">
     <iframe
@@ -64,13 +68,13 @@
       <a href="{{ top.youtube_url }}" target="_blank" rel="noopener">YouTube</a>
     </span>
   </p>
-  <p class="spotify-top__more"><a href="/fun-stuff/music/">Full top 10 &rarr;</a></p>
+  <p class="spotify-top__more"><a href="/fun-stuff/music/">Full top 10 most played this month &rarr;</a></p>
   {% else %}
-  <h2>On repeat</h2>
-  <p class="spotify-top__sub">My {{ spotify.tracks.size }} most-played tracks on Spotify over the last month.</p>
+  <h2>Top {{ month.tracks.size }} this month</h2>
+  <p class="spotify-top__sub">My most-played tracks on Spotify over the last four weeks.</p>
 
   <ol class="spotify-top__list">
-    {% for track in spotify.tracks %}
+    {% for track in month.tracks %}
     <li>
       <span class="spotify-top__rank">{{ track.rank }}</span>
       {% if track.album_art != "" %}
@@ -87,6 +91,30 @@
     </li>
     {% endfor %}
   </ol>
+
+  {% if year and year.tracks and year.tracks.size > 0 %}
+  <h2>Top {{ year.tracks.size }} this year</h2>
+  <p class="spotify-top__sub">My most-played tracks on Spotify over the past year.</p>
+
+  <ol class="spotify-top__list">
+    {% for track in year.tracks %}
+    <li>
+      <span class="spotify-top__rank">{{ track.rank }}</span>
+      {% if track.album_art != "" %}
+      <img class="spotify-top__art" src="{{ track.album_art }}" alt="Album art for {{ track.album | escape }}" loading="lazy">
+      {% endif %}
+      <span class="spotify-top__meta">
+        <span class="spotify-top__track">{{ track.name }}</span>
+        <span class="spotify-top__artist">{{ track.artist }}</span>
+      </span>
+      <span class="spotify-top__links">
+        <a href="{{ track.spotify_url }}" target="_blank" rel="noopener">Spotify</a>
+        <a href="{{ track.youtube_url }}" target="_blank" rel="noopener">YouTube</a>
+      </span>
+    </li>
+    {% endfor %}
+  </ol>
+  {% endif %}
 
   <p class="spotify-top__updated">Updated {{ spotify.fetched_at | date: "%B %-d, %Y" }}</p>
   {% endif %}

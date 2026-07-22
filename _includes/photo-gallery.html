@@ -1,0 +1,65 @@
+{% comment %}
+  Folder-driven photo gallery. Drop images into images/gallery/<folder>/ and
+  render that folder anywhere with:
+
+    {% include photo-gallery.html folder="hiking" %}
+
+  Photos sort by filename (prefix 01_, 02_, ... to control order); alt text is
+  derived from the filename. Mixed portrait/landscape shots flow into masonry
+  columns (no cropping). Shows a "coming soon" line while the folder is empty.
+  Clicking a photo opens a lightbox; the script guards itself so the include
+  can appear multiple times on one page.
+{% endcomment %}
+{% capture gallery_dir %}/images/gallery/{{ include.folder }}/{% endcapture %}
+{% assign photos = site.static_files | where_exp: "f", "f.path contains gallery_dir" | sort: "path" %}
+<style>
+  .photo-gallery { columns: 260px; column-gap: 0.75em; margin: 0 0 1.5em; }
+  .photo-gallery__item { display: block; margin: 0 0 0.75em; break-inside: avoid; }
+  .photo-gallery__item img { display: block; width: 100%; height: auto; border-radius: 6px; }
+  .photo-gallery__item:hover img { opacity: 0.9; }
+  .photo-gallery__empty { color: #6f777d; font-size: 0.85em; }
+  .pg-lightbox { position: fixed; inset: 0; background: rgba(0, 0, 0, 0.92); display: none; align-items: center; justify-content: center; z-index: 1000; cursor: zoom-out; }
+  .pg-lightbox.is-open { display: flex; }
+  .pg-lightbox img { max-width: 92vw; max-height: 92vh; border-radius: 4px; }
+</style>
+{% assign shown = 0 %}
+{% if photos.size > 0 %}
+<div class="photo-gallery">
+  {% for photo in photos %}
+  {% assign ext = photo.extname | downcase %}
+  {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".webp" %}
+  {% assign shown = shown | plus: 1 %}
+  {% assign nice = photo.basename | replace: "-", " " | replace: "_", " " %}
+  <a class="photo-gallery__item" href="{{ photo.path | relative_url }}">
+    <img src="{{ photo.path | relative_url }}" alt="{{ nice }}" loading="lazy">
+  </a>
+  {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+{% if shown == 0 %}
+<p class="photo-gallery__empty">Photos coming soon.</p>
+{% endif %}
+<script>
+  (function () {
+    if (window.__pgLightboxInit) return;
+    window.__pgLightboxInit = true;
+    var overlay = document.createElement("div");
+    overlay.className = "pg-lightbox";
+    overlay.innerHTML = '<img alt="">';
+    document.body.appendChild(overlay);
+    document.addEventListener("click", function (e) {
+      var item = e.target.closest(".photo-gallery__item");
+      if (item) {
+        e.preventDefault();
+        overlay.querySelector("img").src = item.getAttribute("href");
+        overlay.classList.add("is-open");
+        return;
+      }
+      if (e.target.closest(".pg-lightbox")) overlay.classList.remove("is-open");
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") overlay.classList.remove("is-open");
+    });
+  })();
+</script>

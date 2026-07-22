@@ -1,6 +1,6 @@
-# Refreshes _data/spotify.json with the month's top 5 Spotify tracks.
-# Commits only when the list actually changes; a push to main triggers the
-# normal GitHub Pages rebuild, so the site updates itself.
+# Refreshes _data/spotify.json with Evan's top Spotify tracks (10 this month,
+# 25 this year). Commits only when the lists actually change; a push to main
+# triggers the normal GitHub Pages rebuild, so the site updates itself.
 name: Refresh Spotify top tracks
 
 on:

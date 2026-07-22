@@ -1,5 +1,6 @@
-"""Fetches the top 5 Spotify tracks over the last ~4 weeks (time_range =
-short_term) and resolves a YouTube video for each, writing the result to
+"""Fetches Evan's top Spotify tracks over two rolling windows -- the last
+~4 weeks (short_term, "this month") and the last year (long_term, "this
+year") -- resolving a YouTube video for each and writing both lists to
 _data/spotify.json for the spotify-top-tracks.html include to render.
 
 Runs in GitHub Actions (see .github/workflows/spotify-top-tracks.yml).
@@ -25,8 +26,13 @@ import urllib.request
 from datetime import date
 
 OUT_PATH = "_data/spotify.json"
-TIME_RANGE = "short_term"  # rolling ~4-week window = "this month"
-LIMIT = 10
+
+# Two rolling Spotify windows. short_term is roughly the last 4 weeks
+# ("this month"); long_term is roughly the last year ("this year").
+MONTH_RANGE = "short_term"
+MONTH_LIMIT = 10
+YEAR_RANGE = "long_term"
+YEAR_LIMIT = 25
 
 
 def require_env(name: str) -> str:
@@ -67,10 +73,10 @@ def get_access_token() -> str:
     return http_json(request, "Token refresh")["access_token"]
 
 
-def get_top_tracks(access_token: str) -> list:
+def get_top_tracks(access_token: str, time_range: str, limit: int) -> list:
     url = (
         "https://api.spotify.com/v1/me/top/tracks?"
-        + urllib.parse.urlencode({"time_range": TIME_RANGE, "limit": LIMIT})
+        + urllib.parse.urlencode({"time_range": time_range, "limit": limit})
     )
     request = urllib.request.Request(url, headers={"Authorization": f"Bearer {access_token}"})
     return http_json(request, "Top-tracks request").get("items", [])
@@ -130,11 +136,9 @@ def resolve_youtube(artist: str, track: str) -> dict:
     return {"video_id": video_id, "url": url}
 
 
-def build_payload() -> dict:
-    items = get_top_tracks(get_access_token())
-    if not items:
-        sys.exit("Spotify returned no top tracks; leaving existing data untouched.")
-
+def build_track_list(items: list) -> list:
+    """Shape Spotify track items into render-ready dicts, resolving a YouTube
+    video for each."""
     tracks = []
     for rank, item in enumerate(items, start=1):
         artist = ", ".join(a["name"] for a in item["artists"])
@@ -153,8 +157,27 @@ def build_payload() -> dict:
         })
         note = f"(yt:{youtube['video_id']})" if youtube["video_id"] else "(no video match)"
         print(f"#{rank} {artist} - {item['name']} {note}")
+    return tracks
 
-    return {"fetched_at": date.today().isoformat(), "time_range": TIME_RANGE, "tracks": tracks}
+
+def build_section(access_token: str, time_range: str, limit: int, label: str, required: bool) -> dict:
+    """Fetch and shape one time-range section. An empty required section aborts
+    the run (leaving existing data untouched); an empty optional one yields an
+    empty list, which the include simply skips."""
+    print(f"\n{label} ({time_range}):")
+    items = get_top_tracks(access_token, time_range, limit)
+    if not items and required:
+        sys.exit(f"Spotify returned no {label} tracks; leaving existing data untouched.")
+    return {"time_range": time_range, "tracks": build_track_list(items)}
+
+
+def build_payload() -> dict:
+    access_token = get_access_token()
+    return {
+        "fetched_at": date.today().isoformat(),
+        "month": build_section(access_token, MONTH_RANGE, MONTH_LIMIT, "this month", required=True),
+        "year": build_section(access_token, YEAR_RANGE, YEAR_LIMIT, "this year", required=False),
+    }
 
 
 payload = build_payload()
