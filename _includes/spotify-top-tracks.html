@@ -1,0 +1,65 @@
+{% comment %}
+  Renders the month's top 5 Spotify tracks from _data/spotify.json, which is
+  refreshed weekly by .github/workflows/spotify-top-tracks.yml. The #1 track
+  gets an embedded YouTube player; all five get Spotify + YouTube links.
+  Usage, anywhere in a page or layout:  {% include spotify-top-tracks.html %}
+  Renders nothing until the workflow has produced data.
+{% endcomment %}
+{% assign spotify = site.data.spotify %}
+{% if spotify and spotify.tracks and spotify.tracks.size > 0 %}
+<section class="spotify-top">
+  <style>
+    .spotify-top { margin: 2em 0; }
+    .spotify-top__sub { color: #6f777d; font-size: 0.85em; margin: 0.25em 0 1em; }
+    .spotify-top__embed { position: relative; width: 100%; padding-bottom: 56.25%; margin-bottom: 1.25em; }
+    .spotify-top__embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; border-radius: 6px; }
+    .spotify-top__list { list-style: none; margin: 0; padding: 0; }
+    .spotify-top__list li { display: flex; align-items: center; gap: 0.75em; padding: 0.5em 0; border-bottom: 1px solid #f2f3f3; }
+    .spotify-top__list li:last-child { border-bottom: 0; }
+    .spotify-top__rank { color: #6f777d; font-variant-numeric: tabular-nums; width: 1.25em; text-align: right; flex-shrink: 0; }
+    .spotify-top__art { width: 48px; height: 48px; border-radius: 4px; flex-shrink: 0; }
+    .spotify-top__meta { min-width: 0; flex-grow: 1; }
+    .spotify-top__track { display: block; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .spotify-top__artist { display: block; color: #6f777d; font-size: 0.85em; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .spotify-top__links { flex-shrink: 0; font-size: 0.8em; white-space: nowrap; }
+    .spotify-top__links a { margin-left: 0.75em; }
+    .spotify-top__updated { color: #6f777d; font-size: 0.75em; margin-top: 0.75em; }
+  </style>
+
+  <h2>On repeat</h2>
+  <p class="spotify-top__sub">My five most-played tracks on Spotify over the last month.</p>
+
+  {% assign top = spotify.tracks | first %}
+  {% if top.youtube_video_id %}
+  <div class="spotify-top__embed">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/{{ top.youtube_video_id }}"
+      title="{{ top.name | escape }} &mdash; {{ top.artist | escape }}"
+      loading="lazy"
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+  </div>
+  {% endif %}
+
+  <ol class="spotify-top__list">
+    {% for track in spotify.tracks %}
+    <li>
+      <span class="spotify-top__rank">{{ track.rank }}</span>
+      {% if track.album_art != "" %}
+      <img class="spotify-top__art" src="{{ track.album_art }}" alt="Album art for {{ track.album | escape }}" loading="lazy">
+      {% endif %}
+      <span class="spotify-top__meta">
+        <span class="spotify-top__track">{{ track.name }}</span>
+        <span class="spotify-top__artist">{{ track.artist }}</span>
+      </span>
+      <span class="spotify-top__links">
+        <a href="{{ track.spotify_url }}" target="_blank" rel="noopener">Spotify</a>
+        <a href="{{ track.youtube_url }}" target="_blank" rel="noopener">YouTube</a>
+      </span>
+    </li>
+    {% endfor %}
+  </ol>
+
+  <p class="spotify-top__updated">Updated {{ spotify.fetched_at | date: "%B %-d, %Y" }}</p>
+</section>
+{% endif %}

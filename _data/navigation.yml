@@ -7,4 +7,6 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
+  - title: "Fun Stuff"
+    url: /fun-stuff/
 

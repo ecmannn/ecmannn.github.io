@@ -1,0 +1,40 @@
+# Refreshes _data/spotify.json with the month's top 5 Spotify tracks.
+# Commits only when the list actually changes; a push to main triggers the
+# normal GitHub Pages rebuild, so the site updates itself.
+name: Refresh Spotify top tracks
+
+on:
+  schedule:
+    # Mondays 13:23 UTC (~6:23 am San Diego during PDT); off the top of the
+    # hour because GitHub delays congested :00 slots
+    - cron: "23 13 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch top tracks from Spotify
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python3 .github/scripts/fetch_top_tracks.py
+
+      - name: Commit and push if changed
+        run: |
+          if [ -n "$(git status --porcelain _data/spotify.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add _data/spotify.json
+            git commit -m "Update Spotify top tracks"
+            git push
+          else
+            echo "No change in top tracks; skipping commit."
+          fi
