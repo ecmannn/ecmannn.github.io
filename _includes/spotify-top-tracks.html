@@ -11,8 +11,8 @@
   <style>
     .spotify-top { margin: 2em 0; }
     .spotify-top__sub { color: #6f777d; font-size: 0.85em; margin: 0.25em 0 1em; }
-    .spotify-top__embed { position: relative; width: 100%; padding-bottom: 56.25%; margin-bottom: 1.25em; }
-    .spotify-top__embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; border-radius: 6px; }
+    .spotify-top__embed { width: 100%; max-width: 560px; aspect-ratio: 16 / 9; margin: 0 0 1em; }
+    .spotify-top__embed iframe { display: block; width: 100%; height: 100%; border: 0; border-radius: 6px; }
     .spotify-top__list { list-style: none; margin: 0; padding: 0; }
     .spotify-top__list li { display: flex; align-items: center; gap: 0.75em; padding: 0.5em 0; border-bottom: 1px solid #f2f3f3; }
     .spotify-top__list li:last-child { border-bottom: 0; }
@@ -27,7 +27,7 @@
   </style>
 
   <h2>On repeat</h2>
-  <p class="spotify-top__sub">My five most-played tracks on Spotify over the last month.</p>
+  <p class="spotify-top__sub">My {{ spotify.tracks.size }} most-played tracks on Spotify over the last month.</p>
 
   {% assign top = spotify.tracks | first %}
   {% if top.youtube_video_id %}

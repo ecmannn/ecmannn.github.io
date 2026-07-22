@@ -26,7 +26,7 @@ from datetime import date
 
 OUT_PATH = "_data/spotify.json"
 TIME_RANGE = "short_term"  # rolling ~4-week window = "this month"
-LIMIT = 5
+LIMIT = 10
 
 
 def require_env(name: str) -> str:
