@@ -1,9 +1,22 @@
 {% comment %}
-  Renders the month's top 5 Spotify tracks from _data/spotify.json, which is
-  refreshed weekly by .github/workflows/spotify-top-tracks.yml. The #1 track
-  gets an embedded YouTube player; all five get Spotify + YouTube links.
-  Usage, anywhere in a page or layout:  {% include spotify-top-tracks.html %}
-  Renders nothing until the workflow has produced data.
+  Renders Evan's top Spotify tracks from _data/spotify.json, which is refreshed
+  weekly by .github/workflows/spotify-top-tracks.yml. Renders nothing until the
+  workflow has produced data (guarded on site.data.spotify), in either mode.
+
+  Two modes, selected by the `mode` include parameter:
+
+    {% include spotify-top-tracks.html %}
+        Default (full widget): an "On repeat" heading, a subtitle, the full
+        ranked list of tracks (rank, album art, name, artist, Spotify + YouTube
+        links), and an "Updated" date. No embed. Used on the standalone Music
+        page (/fun-stuff/music/).
+
+    {% include spotify-top-tracks.html mode="teaser" %}
+        Teaser: the #1 track only -- a YouTube embed (or the album-art thumbnail
+        when that track has no video) with a caption (name, artist, Spotify +
+        YouTube links) and a "Full top 10" link to /fun-stuff/music/. Emits no
+        heading, subtitle, list, or date, so it can sit under a Markdown heading
+        on the Fun Stuff hub page.
 {% endcomment %}
 {% assign spotify = site.data.spotify %}
 {% if spotify and spotify.tracks and spotify.tracks.size > 0 %}
@@ -13,6 +26,9 @@
     .spotify-top__sub { color: #6f777d; font-size: 0.85em; margin: 0.25em 0 1em; }
     .spotify-top__embed { width: 100%; max-width: 560px; aspect-ratio: 16 / 9; margin: 0 0 1em; }
     .spotify-top__embed iframe { display: block; width: 100%; height: 100%; border: 0; border-radius: 6px; }
+    .spotify-top__caption { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75em; margin: 0 0 0.5em; }
+    .spotify-top__caption-text { min-width: 0; }
+    .spotify-top__more { font-size: 0.85em; margin: 0; }
     .spotify-top__list { list-style: none; margin: 0; padding: 0; }
     .spotify-top__list li { display: flex; align-items: center; gap: 0.75em; padding: 0.5em 0; border-bottom: 1px solid #f2f3f3; }
     .spotify-top__list li:last-child { border-bottom: 0; }
@@ -26,9 +42,7 @@
     .spotify-top__updated { color: #6f777d; font-size: 0.75em; margin-top: 0.75em; }
   </style>
 
-  <h2>On repeat</h2>
-  <p class="spotify-top__sub">My {{ spotify.tracks.size }} most-played tracks on Spotify over the last month.</p>
-
+  {% if include.mode == "teaser" %}
   {% assign top = spotify.tracks | first %}
   {% if top.youtube_video_id %}
   <div class="spotify-top__embed">
@@ -40,6 +54,20 @@
       allowfullscreen></iframe>
   </div>
   {% endif %}
+  <p class="spotify-top__caption">
+    {% unless top.youtube_video_id %}{% if top.album_art != "" %}
+    <img class="spotify-top__art" src="{{ top.album_art }}" alt="Album art for {{ top.album | escape }}" loading="lazy">
+    {% endif %}{% endunless %}
+    <span class="spotify-top__caption-text"><strong>{{ top.name }}</strong> &mdash; {{ top.artist }}</span>
+    <span class="spotify-top__links">
+      <a href="{{ top.spotify_url }}" target="_blank" rel="noopener">Spotify</a>
+      <a href="{{ top.youtube_url }}" target="_blank" rel="noopener">YouTube</a>
+    </span>
+  </p>
+  <p class="spotify-top__more"><a href="/fun-stuff/music/">Full top 10 &rarr;</a></p>
+  {% else %}
+  <h2>On repeat</h2>
+  <p class="spotify-top__sub">My {{ spotify.tracks.size }} most-played tracks on Spotify over the last month.</p>
 
   <ol class="spotify-top__list">
     {% for track in spotify.tracks %}
@@ -61,5 +89,6 @@
   </ol>
 
   <p class="spotify-top__updated">Updated {{ spotify.fetched_at | date: "%B %-d, %Y" }}</p>
+  {% endif %}
 </section>
 {% endif %}
