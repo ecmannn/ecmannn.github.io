@@ -4,16 +4,6 @@
   "tracks": [
     {
       "rank": 1,
-      "name": "Gemini",
-      "artist": "Loathe",
-      "album": "A Stranger To You",
-      "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
-      "spotify_url": "https://open.spotify.com/track/6LTYK7W6hFQh3gkKMd5Afw",
-      "youtube_video_id": "OUwxsLXuk4E",
-      "youtube_url": "https://www.youtube.com/watch?v=OUwxsLXuk4E"
-    },
-    {
-      "rank": 2,
       "name": "covet",
       "artist": "sace6",
       "album": "brutalist",
@@ -23,7 +13,37 @@
       "youtube_url": "https://www.youtube.com/watch?v=4Nn4Surv5xo"
     },
     {
+      "rank": 2,
+      "name": "Gemini",
+      "artist": "Loathe",
+      "album": "A Stranger To You",
+      "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
+      "spotify_url": "https://open.spotify.com/track/6LTYK7W6hFQh3gkKMd5Afw",
+      "youtube_video_id": "OUwxsLXuk4E",
+      "youtube_url": "https://www.youtube.com/watch?v=OUwxsLXuk4E"
+    },
+    {
       "rank": 3,
+      "name": "uneven",
+      "artist": "sace6",
+      "album": "brutalist",
+      "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+      "spotify_url": "https://open.spotify.com/track/2FV7Ci0Fx2UgH0KOZQuRoM",
+      "youtube_video_id": "QnrZJqIfhbA",
+      "youtube_url": "https://www.youtube.com/watch?v=QnrZJqIfhbA"
+    },
+    {
+      "rank": 4,
+      "name": "dolorous",
+      "artist": "sace6",
+      "album": "brutalist",
+      "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+      "spotify_url": "https://open.spotify.com/track/3XDEv0uxLtvHUNRDqiHEP5",
+      "youtube_video_id": "ejY4L3PohpM",
+      "youtube_url": "https://www.youtube.com/watch?v=ejY4L3PohpM"
+    },
+    {
+      "rank": 5,
       "name": "nepenthe",
       "artist": "sace6",
       "album": "brutalist",
@@ -33,24 +53,54 @@
       "youtube_url": "https://www.youtube.com/watch?v=P94t0pDat3U"
     },
     {
-      "rank": 4,
-      "name": "uneven",
+      "rank": 6,
+      "name": "besotted",
       "artist": "sace6",
       "album": "brutalist",
       "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-      "spotify_url": "https://open.spotify.com/track/2FV7Ci0Fx2UgH0KOZQuRoM",
-      "youtube_video_id": "sblRS6kgiyU",
-      "youtube_url": "https://www.youtube.com/watch?v=sblRS6kgiyU"
+      "spotify_url": "https://open.spotify.com/track/2ujCkCa8ncEhOT5G1uIunZ",
+      "youtube_video_id": "qb13oCjicKc",
+      "youtube_url": "https://www.youtube.com/watch?v=qb13oCjicKc"
     },
     {
-      "rank": 5,
-      "name": "dolorous",
+      "rank": 7,
+      "name": "fabulist",
       "artist": "sace6",
       "album": "brutalist",
       "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-      "spotify_url": "https://open.spotify.com/track/3XDEv0uxLtvHUNRDqiHEP5",
-      "youtube_video_id": "ejY4L3PohpM",
-      "youtube_url": "https://www.youtube.com/watch?v=ejY4L3PohpM"
+      "spotify_url": "https://open.spotify.com/track/3IVKMvS0Pt9a7DXMW1TsCb",
+      "youtube_video_id": "8S2TNStUWgc",
+      "youtube_url": "https://www.youtube.com/watch?v=8S2TNStUWgc"
+    },
+    {
+      "rank": 8,
+      "name": "Stay Still",
+      "artist": "Ice Sealed Eyes",
+      "album": "Tape 1: Far Away",
+      "album_art": "https://i.scdn.co/image/ab67616d00001e02356cc4017bfc34cd8132f314",
+      "spotify_url": "https://open.spotify.com/track/4DmOY29ltxyg8uN4Ydx7Hb",
+      "youtube_video_id": "_Xsg9P0f2ng",
+      "youtube_url": "https://www.youtube.com/watch?v=_Xsg9P0f2ng"
+    },
+    {
+      "rank": 9,
+      "name": "perfidy",
+      "artist": "sace6",
+      "album": "brutalist",
+      "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+      "spotify_url": "https://open.spotify.com/track/2TGBq8L3nkgm0hBnLGItKw",
+      "youtube_video_id": "7VPmgfVzKyM",
+      "youtube_url": "https://www.youtube.com/watch?v=7VPmgfVzKyM"
+    },
+    {
+      "rank": 10,
+      "name": "Dove",
+      "artist": "Karmanjakah",
+      "album": "Diamond morning",
+      "album_art": "https://i.scdn.co/image/ab67616d00001e022803aa9386483ae5ce3ba0c0",
+      "spotify_url": "https://open.spotify.com/track/2qI81FIePMJo8ed8a4kkU8",
+      "youtube_video_id": "6j-XJuRRY78",
+      "youtube_url": "https://www.youtube.com/watch?v=6j-XJuRRY78"
     }
   ]
 }
