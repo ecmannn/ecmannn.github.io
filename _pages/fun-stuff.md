@@ -21,7 +21,7 @@ When I'm not working or spending time with my partner and our dog, I am playing 
 
 ## Music
 
-My most played song on Spotify over a rolling four week period, automatically updated every Monday. Be warned; it will invariably be some kind of progressive modern metal, but sharing music is one of my favorite pasttimes. If you enjoy, or have other recommendations based on this list, I'd love to hear it!!
+My most played song on Spotify over a rolling four week period, automatically updated every Monday. Be warned; it will invariably be some kind of progressive modern metal, but sharing music is one of my favorite pasttimes. If you enjoy, or have other recommendations based on this list, I'd love to hear it!! I also created lists of my top ten over this window, and my top 25 of the year-to-date.
 
 {% include spotify-top-tracks.html mode="teaser" %}
 
