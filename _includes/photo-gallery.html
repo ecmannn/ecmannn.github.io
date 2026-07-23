@@ -84,13 +84,18 @@
     var prevBtn = overlay.querySelector(".pg-lightbox__prev");
     var nextBtn = overlay.querySelector(".pg-lightbox__next");
 
-    // Every photo on the page, in document order; arrows cycle across sections.
+    /* Every photo on the page, in document order; arrows cycle across
+       sections. NOTE: comments in this script must stay slash-star style —
+       the production build runs jekyll-compress-html, which collapses the
+       page onto one line, and a double-slash comment would swallow all the
+       code after it (this bit once: dev builds skip compression, so the bug
+       only appears on the live site). */
     var srcs = [];
     var alts = [];
     var locs = [];
     var index = 0;
 
-    // Warm the browser cache so left/right feels instant.
+    /* Warm the browser cache so left/right feels instant. */
     function preload(src) { if (src) { var i = new Image(); i.src = src; } }
 
     function show(i) {
@@ -129,8 +134,8 @@
       if (!overlay.classList.contains("is-open")) return;
       if (e.target === prevBtn) { show(index - 1); return; }
       if (e.target === nextBtn) { show(index + 1); return; }
-      if (e.target === img) return;                  // clicking the photo keeps it open
-      if (e.target.closest(".pg-lightbox")) close();  // backdrop or close button
+      if (e.target === img) return;                   /* clicking the photo keeps it open */
+      if (e.target.closest(".pg-lightbox")) close();  /* backdrop or close button */
     });
 
     document.addEventListener("keydown", function (e) {
