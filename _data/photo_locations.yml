@@ -1,0 +1,70 @@
+# Location captions for the photo gallery lightbox.
+#
+# Keys are the photo's filename without extension (e.g. 01_hiking), grouped by
+# gallery section. Fill in a location string and it shows as a tag under the
+# photo in the lightbox on /fun-stuff/photos/. Leave the value as "" (empty) to
+# show no tag for that photo. Free text -- write it however reads best.
+#
+# The published photos have no GPS (the prep script strips all EXIF). These
+# values were AUTO-SEEDED by reverse-geocoding the originals' GPS (OSM Overpass
+# for parks/protected areas, Nominatim for urban points) and are DRAFTS to
+# hand-correct. Adding a photo later? Add a line here with its basename.
+
+hiking:
+  "01_hiking": "Yosemite National Park, CA"
+  "02_hiking": "Yosemite National Park, CA"
+  "03_hiking": "Yosemite National Park, CA"
+  "04_hiking": "Jedediah Smith Wilderness, WY"
+  "05_hiking": "Ha Long Bay, Vietnam"
+  "06_hiking": "Ventura River Preserve, CA"
+  "07_hiking": "Driggs, ID"
+  "08_hiking": "Caribou-Targhee National Forest, ID"
+  "09_hiking": "Caribou-Targhee National Forest, ID"
+  "10_hiking": "Grand Teton National Park, WY"
+  "11_hiking": "Jedediah Smith Wilderness, WY"
+  "12_hiking": "Jedediah Smith Wilderness, WY"
+  "13_hiking": "Jedediah Smith Wilderness, WY"
+  "14_hiking": "Grand Teton National Park, WY"
+  "15_hiking": "Grand Teton National Park, WY"
+  "16_hiking": "Grand Teton National Park, WY"
+  "17_hiking": "Jedediah Smith Wilderness, WY"
+  "18_hiking": "Jedediah Smith Wilderness, WY"
+  "19_hiking": "Jedediah Smith Wilderness, WY"
+  "20_hiking": "Jedediah Smith Wilderness, WY"
+
+cityscapes:
+  "01_cityscape": "Georgetown Waterfront, Washington, DC"
+  "02_cityscape": "Georgetown University, Washington, DC"
+  "03_cityscape": "National Mall, Washington, DC"
+  "04_cityscape": "Kennedy Center, Washington, DC"
+  "05_cityscape": "Vasaparken, Stockholm, Sweden"
+  "06_cityscape": "Haga Park, Solna, Sweden"
+  "07_cityscape": "Norrmalm, Stockholm, Sweden"
+  "08_cityscape": "Djurgården, Stockholm, Sweden"
+  "09_cityscape": "Djurgården, Stockholm, Sweden"
+  "10_cityscape": "Kalvebod Fælled, Denmark"
+  "11_cityscape": "Kalvebod Fælled, Dragør, Denmark"
+  "12_cityscape": "Indre By, Copenhagen, Denmark"
+  "13_cityscape": "Atlasområdet, Stockholm, Sweden"
+  "14_cityscape": "Georgetown Car Barn, Washington, DC"
+  "15_cityscape": "Georgetown University, Washington, DC"
+  "16_cityscape": "Georgetown University, Washington, DC"
+  "17_cityscape": "Glover Park, Washington, DC"
+  "18_cityscape": "13th Street, Del Mar, CA"
+  "19_cityscape": "Seagrove Park, Del Mar, CA"
+  "20_cityscape": "Social Sciences Building, La Jolla, CA"
+  "21_cityscape": "Torrey Pines, Del Mar, CA"
+  "22_cityscape": "Social Sciences Building, La Jolla, CA"
+  "23_cityscape": "Social Sciences Building, La Jolla, CA"
+  "24_cityscape": "TEC Cafe, La Jolla, CA"
+  "25_cityscape": "School of Global Policy and Strategy, La Jolla, CA"
+  "26_cityscape": "La Jolla Shores Park, La Jolla, CA"
+  "27_cityscape": "Ojai, CA"
+  "28_cityscape": "North Campus, San Diego, CA"
+  "29_cityscape": "La Jolla Shores Park, La Jolla, CA"
+  "30_cityscape": "Carlsbad Flower Fields, Carlsbad, CA"
+  "31_cityscape": "Leucadia, Encinitas, CA"
+  "32_cityscape": "Social Sciences Building, La Jolla, CA"
+  "33_cityscape": "Midtown East, New York, NY"
+  "34_cityscape": "Central Park, New York, NY"
+  "35_cityscape": "Central Park, New York, NY"
