@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22",
+  "fetched_at": "2026-07-27",
   "month": {
     "time_range": "short_term",
     "tracks": [
@@ -30,21 +30,11 @@
         "album": "brutalist",
         "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
         "spotify_url": "https://open.spotify.com/track/2FV7Ci0Fx2UgH0KOZQuRoM",
-        "youtube_video_id": "sblRS6kgiyU",
-        "youtube_url": "https://www.youtube.com/watch?v=sblRS6kgiyU"
+        "youtube_video_id": "QnrZJqIfhbA",
+        "youtube_url": "https://www.youtube.com/watch?v=QnrZJqIfhbA"
       },
       {
         "rank": 4,
-        "name": "dolorous",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/3XDEv0uxLtvHUNRDqiHEP5",
-        "youtube_video_id": "ejY4L3PohpM",
-        "youtube_url": "https://www.youtube.com/watch?v=ejY4L3PohpM"
-      },
-      {
-        "rank": 5,
         "name": "nepenthe",
         "artist": "sace6",
         "album": "brutalist",
@@ -54,14 +44,24 @@
         "youtube_url": "https://www.youtube.com/watch?v=P94t0pDat3U"
       },
       {
-        "rank": 6,
-        "name": "besotted",
+        "rank": 5,
+        "name": "dolorous",
         "artist": "sace6",
         "album": "brutalist",
         "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/2ujCkCa8ncEhOT5G1uIunZ",
-        "youtube_video_id": "qb13oCjicKc",
-        "youtube_url": "https://www.youtube.com/watch?v=qb13oCjicKc"
+        "spotify_url": "https://open.spotify.com/track/3XDEv0uxLtvHUNRDqiHEP5",
+        "youtube_video_id": "ejY4L3PohpM",
+        "youtube_url": "https://www.youtube.com/watch?v=ejY4L3PohpM"
+      },
+      {
+        "rank": 6,
+        "name": "perfidy",
+        "artist": "sace6",
+        "album": "brutalist",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+        "spotify_url": "https://open.spotify.com/track/2TGBq8L3nkgm0hBnLGItKw",
+        "youtube_video_id": "7VPmgfVzKyM",
+        "youtube_url": "https://www.youtube.com/watch?v=7VPmgfVzKyM"
       },
       {
         "rank": 7,
@@ -75,6 +75,16 @@
       },
       {
         "rank": 8,
+        "name": "besotted",
+        "artist": "sace6",
+        "album": "brutalist",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+        "spotify_url": "https://open.spotify.com/track/2ujCkCa8ncEhOT5G1uIunZ",
+        "youtube_video_id": "qb13oCjicKc",
+        "youtube_url": "https://www.youtube.com/watch?v=qb13oCjicKc"
+      },
+      {
+        "rank": 9,
         "name": "Entrance",
         "artist": "Loathe, bucki sugar",
         "album": "A Stranger To You",
@@ -84,7 +94,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=aRjpJmg3Rz4"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Stay Still",
         "artist": "Ice Sealed Eyes",
         "album": "Tape 1: Far Away",
@@ -92,16 +102,6 @@
         "spotify_url": "https://open.spotify.com/track/4DmOY29ltxyg8uN4Ydx7Hb",
         "youtube_video_id": "_Xsg9P0f2ng",
         "youtube_url": "https://www.youtube.com/watch?v=_Xsg9P0f2ng"
-      },
-      {
-        "rank": 10,
-        "name": "perfidy",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/2TGBq8L3nkgm0hBnLGItKw",
-        "youtube_video_id": "7VPmgfVzKyM",
-        "youtube_url": "https://www.youtube.com/watch?v=7VPmgfVzKyM"
       }
     ]
   },
@@ -243,7 +243,7 @@
         "name": "In the Name of the Father",
         "artist": "PRESIDENT",
         "album": "King Of Terrors",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02dd96ed79ad68a9f311300d51",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021eb7db24e3908b358e76b308",
         "spotify_url": "https://open.spotify.com/track/6BiS7gcDbvELNrAa0OcI4P",
         "youtube_video_id": "iSrotkQCACg",
         "youtube_url": "https://www.youtube.com/watch?v=iSrotkQCACg"
