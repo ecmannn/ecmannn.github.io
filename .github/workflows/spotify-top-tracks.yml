@@ -5,9 +5,9 @@ name: Refresh Spotify top tracks
 
 on:
   schedule:
-    # Mondays 13:23 UTC (~6:23 am San Diego during PDT); off the top of the
-    # hour because GitHub delays congested :00 slots
-    - cron: "23 13 * * 1"
+    # Mondays 10:23 UTC (6:23 am Eastern during EDT; 5:23 am EST in winter);
+    # off the top of the hour because GitHub delays congested :00 slots
+    - cron: "23 10 * * 1"
   workflow_dispatch:
 
 permissions:
