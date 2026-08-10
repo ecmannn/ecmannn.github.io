@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03",
+  "fetched_at": "2026-08-10",
   "month": {
     "time_range": "short_term",
     "tracks": [
@@ -35,6 +35,16 @@
       },
       {
         "rank": 4,
+        "name": "besotted",
+        "artist": "sace6",
+        "album": "brutalist",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+        "spotify_url": "https://open.spotify.com/track/2ujCkCa8ncEhOT5G1uIunZ",
+        "youtube_video_id": "NfB8HcPUfO0",
+        "youtube_url": "https://www.youtube.com/watch?v=NfB8HcPUfO0"
+      },
+      {
+        "rank": 5,
         "name": "nepenthe",
         "artist": "sace6",
         "album": "brutalist",
@@ -44,7 +54,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=P94t0pDat3U"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "dolorous",
         "artist": "sace6",
         "album": "brutalist",
@@ -54,7 +64,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=ejY4L3PohpM"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "perfidy",
         "artist": "sace6",
         "album": "brutalist",
@@ -64,7 +74,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=7VPmgfVzKyM"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "fabulist",
         "artist": "sace6",
         "album": "brutalist",
@@ -74,24 +84,14 @@
         "youtube_url": "https://www.youtube.com/watch?v=8S2TNStUWgc"
       },
       {
-        "rank": 8,
-        "name": "besotted",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/2ujCkCa8ncEhOT5G1uIunZ",
-        "youtube_video_id": "qb13oCjicKc",
-        "youtube_url": "https://www.youtube.com/watch?v=qb13oCjicKc"
-      },
-      {
         "rank": 9,
         "name": "Entrance",
         "artist": "Loathe, bucki sugar",
         "album": "A Stranger To You",
         "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
         "spotify_url": "https://open.spotify.com/track/3fbxw3kKc1DXur3hxgTdXA",
-        "youtube_video_id": "aRjpJmg3Rz4",
-        "youtube_url": "https://www.youtube.com/watch?v=aRjpJmg3Rz4"
+        "youtube_video_id": "fOdDeDh1R-E",
+        "youtube_url": "https://www.youtube.com/watch?v=fOdDeDh1R-E"
       },
       {
         "rank": 10,
@@ -100,8 +100,8 @@
         "album": "A Stranger To You",
         "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
         "spotify_url": "https://open.spotify.com/track/3ovTVdjeOH27MKv1Gd6jPH",
-        "youtube_video_id": "MsAc_e8aIBE",
-        "youtube_url": "https://www.youtube.com/watch?v=MsAc_e8aIBE"
+        "youtube_video_id": "xVYRtFFMN2U",
+        "youtube_url": "https://www.youtube.com/watch?v=xVYRtFFMN2U"
       }
     ]
   },
