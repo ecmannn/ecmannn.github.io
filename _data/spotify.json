@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10",
+  "fetched_at": "2026-08-17",
   "month": {
     "time_range": "short_term",
     "tracks": [
@@ -15,13 +15,13 @@
       },
       {
         "rank": 2,
-        "name": "Gemini",
-        "artist": "Loathe",
-        "album": "A Stranger To You",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
-        "spotify_url": "https://open.spotify.com/track/6LTYK7W6hFQh3gkKMd5Afw",
-        "youtube_video_id": "OUwxsLXuk4E",
-        "youtube_url": "https://www.youtube.com/watch?v=OUwxsLXuk4E"
+        "name": "DOOM LOOP",
+        "artist": "PRESIDENT",
+        "album": "DOOM LOOP",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02fbbc13888b3b84c89f90f8e6",
+        "spotify_url": "https://open.spotify.com/track/6vmfzJFnhzguSGAYqcrHxT",
+        "youtube_video_id": "Dd5fepthmHg",
+        "youtube_url": "https://www.youtube.com/watch?v=Dd5fepthmHg"
       },
       {
         "rank": 3,
@@ -35,13 +35,13 @@
       },
       {
         "rank": 4,
-        "name": "besotted",
+        "name": "dolorous",
         "artist": "sace6",
         "album": "brutalist",
         "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/2ujCkCa8ncEhOT5G1uIunZ",
-        "youtube_video_id": "NfB8HcPUfO0",
-        "youtube_url": "https://www.youtube.com/watch?v=NfB8HcPUfO0"
+        "spotify_url": "https://open.spotify.com/track/3XDEv0uxLtvHUNRDqiHEP5",
+        "youtube_video_id": "ejY4L3PohpM",
+        "youtube_url": "https://www.youtube.com/watch?v=ejY4L3PohpM"
       },
       {
         "rank": 5,
@@ -55,16 +55,6 @@
       },
       {
         "rank": 6,
-        "name": "dolorous",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/3XDEv0uxLtvHUNRDqiHEP5",
-        "youtube_video_id": "ejY4L3PohpM",
-        "youtube_url": "https://www.youtube.com/watch?v=ejY4L3PohpM"
-      },
-      {
-        "rank": 7,
         "name": "perfidy",
         "artist": "sace6",
         "album": "brutalist",
@@ -74,7 +64,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=7VPmgfVzKyM"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "fabulist",
         "artist": "sace6",
         "album": "brutalist",
@@ -84,24 +74,34 @@
         "youtube_url": "https://www.youtube.com/watch?v=8S2TNStUWgc"
       },
       {
+        "rank": 8,
+        "name": "Icarus",
+        "artist": "Jutes",
+        "album": "Chin Up, Beautiful",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e023a44c45ec548790c48b914fb",
+        "spotify_url": "https://open.spotify.com/track/5VBqyvojwITdiy5c6SfYBx",
+        "youtube_video_id": "yydPdvD54Tw",
+        "youtube_url": "https://www.youtube.com/watch?v=yydPdvD54Tw"
+      },
+      {
         "rank": 9,
-        "name": "Entrance",
-        "artist": "Loathe, bucki sugar",
-        "album": "A Stranger To You",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
-        "spotify_url": "https://open.spotify.com/track/3fbxw3kKc1DXur3hxgTdXA",
-        "youtube_video_id": "fOdDeDh1R-E",
-        "youtube_url": "https://www.youtube.com/watch?v=fOdDeDh1R-E"
+        "name": "besotted",
+        "artist": "sace6",
+        "album": "brutalist",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+        "spotify_url": "https://open.spotify.com/track/2ujCkCa8ncEhOT5G1uIunZ",
+        "youtube_video_id": "NfB8HcPUfO0",
+        "youtube_url": "https://www.youtube.com/watch?v=NfB8HcPUfO0"
       },
       {
         "rank": 10,
-        "name": "Block Of Flats",
-        "artist": "Loathe, Static Dress",
-        "album": "A Stranger To You",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
-        "spotify_url": "https://open.spotify.com/track/3ovTVdjeOH27MKv1Gd6jPH",
-        "youtube_video_id": "xVYRtFFMN2U",
-        "youtube_url": "https://www.youtube.com/watch?v=xVYRtFFMN2U"
+        "name": "Under The Wire",
+        "artist": "Split Chain",
+        "album": "motionblur",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0253a4712a34deaddd31e39294",
+        "spotify_url": "https://open.spotify.com/track/6eE2KnCMKbOIR6PIWGNcR1",
+        "youtube_video_id": "F4ltRNdfMZw",
+        "youtube_url": "https://www.youtube.com/watch?v=F4ltRNdfMZw"
       }
     ]
   },
