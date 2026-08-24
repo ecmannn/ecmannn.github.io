@@ -1,20 +1,10 @@
 {
-  "fetched_at": "2026-08-17",
+  "fetched_at": "2026-08-24",
   "month": {
     "time_range": "short_term",
     "tracks": [
       {
         "rank": 1,
-        "name": "covet",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/75F1PnYhdRwu83aSi4y7O1",
-        "youtube_video_id": "4Nn4Surv5xo",
-        "youtube_url": "https://www.youtube.com/watch?v=4Nn4Surv5xo"
-      },
-      {
-        "rank": 2,
         "name": "DOOM LOOP",
         "artist": "PRESIDENT",
         "album": "DOOM LOOP",
@@ -24,57 +14,27 @@
         "youtube_url": "https://www.youtube.com/watch?v=Dd5fepthmHg"
       },
       {
+        "rank": 2,
+        "name": "Under The Wire",
+        "artist": "Split Chain",
+        "album": "motionblur",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0253a4712a34deaddd31e39294",
+        "spotify_url": "https://open.spotify.com/track/6eE2KnCMKbOIR6PIWGNcR1",
+        "youtube_video_id": "F4ltRNdfMZw",
+        "youtube_url": "https://www.youtube.com/watch?v=F4ltRNdfMZw"
+      },
+      {
         "rank": 3,
-        "name": "uneven",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/2FV7Ci0Fx2UgH0KOZQuRoM",
-        "youtube_video_id": "QnrZJqIfhbA",
-        "youtube_url": "https://www.youtube.com/watch?v=QnrZJqIfhbA"
+        "name": "Disassociate",
+        "artist": "Jutes",
+        "album": "Chin Up, Beautiful",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e023a44c45ec548790c48b914fb",
+        "spotify_url": "https://open.spotify.com/track/2gnxmKvCWVIdaJb1aRkTrx",
+        "youtube_video_id": "fKJFFYtxc_M",
+        "youtube_url": "https://www.youtube.com/watch?v=fKJFFYtxc_M"
       },
       {
         "rank": 4,
-        "name": "dolorous",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/3XDEv0uxLtvHUNRDqiHEP5",
-        "youtube_video_id": "ejY4L3PohpM",
-        "youtube_url": "https://www.youtube.com/watch?v=ejY4L3PohpM"
-      },
-      {
-        "rank": 5,
-        "name": "nepenthe",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/25jsM8QzO8gg4uo0p0wNjf",
-        "youtube_video_id": "P94t0pDat3U",
-        "youtube_url": "https://www.youtube.com/watch?v=P94t0pDat3U"
-      },
-      {
-        "rank": 6,
-        "name": "perfidy",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/2TGBq8L3nkgm0hBnLGItKw",
-        "youtube_video_id": "7VPmgfVzKyM",
-        "youtube_url": "https://www.youtube.com/watch?v=7VPmgfVzKyM"
-      },
-      {
-        "rank": 7,
-        "name": "fabulist",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/3IVKMvS0Pt9a7DXMW1TsCb",
-        "youtube_video_id": "8S2TNStUWgc",
-        "youtube_url": "https://www.youtube.com/watch?v=8S2TNStUWgc"
-      },
-      {
-        "rank": 8,
         "name": "Icarus",
         "artist": "Jutes",
         "album": "Chin Up, Beautiful",
@@ -84,24 +44,64 @@
         "youtube_url": "https://www.youtube.com/watch?v=yydPdvD54Tw"
       },
       {
+        "rank": 5,
+        "name": "Revenant",
+        "artist": "Loathe, NOWHERE2RUN",
+        "album": "A Stranger To You",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
+        "spotify_url": "https://open.spotify.com/track/4Dwy2rexmxeSkv4IQmBala",
+        "youtube_video_id": "3khI3vqV0FY",
+        "youtube_url": "https://www.youtube.com/watch?v=3khI3vqV0FY"
+      },
+      {
+        "rank": 6,
+        "name": "New Day",
+        "artist": "Allt",
+        "album": "Ataraxia",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e026fa6cdb51671f5a39aa9cb35",
+        "spotify_url": "https://open.spotify.com/track/00PoUdxw6bia9rG2PFadZV",
+        "youtube_video_id": "HREhRlvcYaE",
+        "youtube_url": "https://www.youtube.com/watch?v=HREhRlvcYaE"
+      },
+      {
+        "rank": 7,
+        "name": "Fortress Down",
+        "artist": "Loathe",
+        "album": "A Stranger To You",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
+        "spotify_url": "https://open.spotify.com/track/63SaN607accD2T4mLJFDRd",
+        "youtube_video_id": "mRu5K9To8II",
+        "youtube_url": "https://www.youtube.com/watch?v=mRu5K9To8II"
+      },
+      {
+        "rank": 8,
+        "name": "Gemini",
+        "artist": "Loathe",
+        "album": "A Stranger To You",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
+        "spotify_url": "https://open.spotify.com/track/6LTYK7W6hFQh3gkKMd5Afw",
+        "youtube_video_id": "OUwxsLXuk4E",
+        "youtube_url": "https://www.youtube.com/watch?v=OUwxsLXuk4E"
+      },
+      {
         "rank": 9,
-        "name": "besotted",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/2ujCkCa8ncEhOT5G1uIunZ",
-        "youtube_video_id": "NfB8HcPUfO0",
-        "youtube_url": "https://www.youtube.com/watch?v=NfB8HcPUfO0"
+        "name": "CUT_it",
+        "artist": "Northlane",
+        "album": "CUT_it",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0252643f656512a83e57c2adae",
+        "spotify_url": "https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB",
+        "youtube_video_id": "1eP9aoe2F6E",
+        "youtube_url": "https://www.youtube.com/watch?v=1eP9aoe2F6E"
       },
       {
         "rank": 10,
-        "name": "Under The Wire",
+        "name": "bored. tired. torn.",
         "artist": "Split Chain",
         "album": "motionblur",
         "album_art": "https://i.scdn.co/image/ab67616d00001e0253a4712a34deaddd31e39294",
-        "spotify_url": "https://open.spotify.com/track/6eE2KnCMKbOIR6PIWGNcR1",
-        "youtube_video_id": "F4ltRNdfMZw",
-        "youtube_url": "https://www.youtube.com/watch?v=F4ltRNdfMZw"
+        "spotify_url": "https://open.spotify.com/track/2JtKta5SvYMGc3MV7NxTVG",
+        "youtube_video_id": "FHhlWDo-mBM",
+        "youtube_url": "https://www.youtube.com/watch?v=FHhlWDo-mBM"
       }
     ]
   },
