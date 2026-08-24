@@ -35,6 +35,6 @@ My favorite shots from trails, cities, random adventures, and places that mean a
 
 ## Blog
 
-I will post write-ups of the small technical and workflow projects behind that productive procrastination here soon.
+I will post write-ups of the small technical and workflow projects behind that productive procrastination here soon (ironic, I know ...).
 
 [Blog →](/fun-stuff/blog/)
