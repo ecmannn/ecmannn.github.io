@@ -6,15 +6,17 @@ author_profile: true
 --- 
 
 ## Under Review
-- **Global Trade and Interstate Conflict: The Indirect Origins of Liberal Peace.** (w/ Erik Gartzke). Submitted at IO (08/2025)
+- **Global Trade and Interstate Conflict: The Indirect Origins of Liberal Peace.** (w/ Erik Gartzke). Submitted (07/2026).
   <!-- [PDF](#) · [Code](#) -->
-  
+- **Climate Change, Arctic Trade Routes, and Overseas Military Bases.** (w/ Erik Gartzke). Submitted (07/2026).
+  <!-- [PDF](#) · [Code](#) -->
+
 ## Working Papers
-- **The Domestic Politics of Dual-Use Export Controls.**
-- **The Missing Link: International Determinants of Democratic Backsliding.** 
-- **Climate Change, Arctic Trade Routes, and Overseas Military Bases.** (w/ Erik Gartzke).
+- **The Domestic Politics of Dual-Use Export Controls.** 
 - **The Political Geography of Militarized Interstate Conflict: How Trade Shapes the Location of Military Bases.”** (w/ Erik Gartzke). 
+- **The Missing Link: International Determinants of Democratic Backsliding.**
 - **From Ballots to Firewalls: Democratic Backsliding and Digital Repression.**
+- **Cameras and Contention: Protest, Placement, and the Privatization of American Surveillance.**
 
 ## Other Publications
 - **The Battle Between Climate Winners and Losers Heats Up.** 2025. Institute of Global Conflict and Cooperation.
@@ -25,7 +27,5 @@ author_profile: true
   - [Access Here](/files/mann_2022_electoral_authoritarianism.pdf){: .btn .btn--primary .btn--medium target="_blank" rel="noopener"}
 - **The Nexus of Corruption and Democratic Backsliding.** (w/ Yusuf Can). 2022. Democracy & Society, Vol. 19, pg 8-12.
   - [Access Here](https://democracyandsociety.net/wp-content/uploads/2022/12/ds-31-can-and-mann.pdf){: .btn .btn--primary .btn--medium target="_blank" rel="noopener"}
-- **Book Review: My Secret Brexit Diary: A Glorious Illusion.** 2022. Democracy & Society.
-  - [Access Here](https://democracyandsociety.net/2022/02/07/my-secret-brexit-diary-a-glorious-illusion-book-review/){: .btn .btn--primary .btn--medium target="_blank" rel="noopener"}
 
   
