@@ -1,10 +1,20 @@
 {
-  "fetched_at": "2026-09-07",
+  "fetched_at": "2026-09-14",
   "month": {
     "time_range": "short_term",
     "tracks": [
       {
         "rank": 1,
+        "name": "White Devil",
+        "artist": "PRESIDENT",
+        "album": "Blood Of Your Empire",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
+        "spotify_url": "https://open.spotify.com/track/75kgR8V9p8sCqPzBB9ID9u",
+        "youtube_video_id": "yykLfu3es8s",
+        "youtube_url": "https://www.youtube.com/watch?v=yykLfu3es8s"
+      },
+      {
+        "rank": 2,
         "name": "critic",
         "artist": "thrown",
         "album": "critic",
@@ -14,47 +24,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=_ZEBPzETt80"
       },
       {
-        "rank": 2,
-        "name": "nepenthe",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/25jsM8QzO8gg4uo0p0wNjf",
-        "youtube_video_id": "P94t0pDat3U",
-        "youtube_url": "https://www.youtube.com/watch?v=P94t0pDat3U"
-      },
-      {
         "rank": 3,
-        "name": "Gemini",
-        "artist": "Loathe",
-        "album": "A Stranger To You",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
-        "spotify_url": "https://open.spotify.com/track/6LTYK7W6hFQh3gkKMd5Afw",
-        "youtube_video_id": "OUwxsLXuk4E",
-        "youtube_url": "https://www.youtube.com/watch?v=OUwxsLXuk4E"
-      },
-      {
-        "rank": 4,
-        "name": "Under The Wire",
-        "artist": "Split Chain",
-        "album": "motionblur",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0253a4712a34deaddd31e39294",
-        "spotify_url": "https://open.spotify.com/track/6eE2KnCMKbOIR6PIWGNcR1",
-        "youtube_video_id": "F4ltRNdfMZw",
-        "youtube_url": "https://www.youtube.com/watch?v=F4ltRNdfMZw"
-      },
-      {
-        "rank": 5,
-        "name": "Disassociate",
-        "artist": "Jutes",
-        "album": "Chin Up, Beautiful",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e023a44c45ec548790c48b914fb",
-        "spotify_url": "https://open.spotify.com/track/2gnxmKvCWVIdaJb1aRkTrx",
-        "youtube_video_id": "fKJFFYtxc_M",
-        "youtube_url": "https://www.youtube.com/watch?v=fKJFFYtxc_M"
-      },
-      {
-        "rank": 6,
         "name": "Angel Wings",
         "artist": "PRESIDENT",
         "album": "Blood Of Your Empire",
@@ -64,44 +34,74 @@
         "youtube_url": "https://www.youtube.com/watch?v=zyfJwCIfoDE"
       },
       {
-        "rank": 7,
-        "name": "Revenant",
-        "artist": "Loathe, NOWHERE2RUN",
+        "rank": 4,
+        "name": "DOOM LOOP",
+        "artist": "PRESIDENT",
+        "album": "Blood Of Your Empire",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
+        "spotify_url": "https://open.spotify.com/track/0EpeHS8qFeJlL35jtiDxMM",
+        "youtube_video_id": "l_bAw72UMNc",
+        "youtube_url": "https://www.youtube.com/watch?v=l_bAw72UMNc"
+      },
+      {
+        "rank": 5,
+        "name": "Sleepwalker",
+        "artist": "PRESIDENT",
+        "album": "Blood Of Your Empire",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
+        "spotify_url": "https://open.spotify.com/track/0qFmjpNGhjaxp789YQ7zMb",
+        "youtube_video_id": "HnB5mmPfUZU",
+        "youtube_url": "https://www.youtube.com/watch?v=HnB5mmPfUZU"
+      },
+      {
+        "rank": 6,
+        "name": "Gemini",
+        "artist": "Loathe",
         "album": "A Stranger To You",
         "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
-        "spotify_url": "https://open.spotify.com/track/4Dwy2rexmxeSkv4IQmBala",
-        "youtube_video_id": "3khI3vqV0FY",
-        "youtube_url": "https://www.youtube.com/watch?v=3khI3vqV0FY"
+        "spotify_url": "https://open.spotify.com/track/6LTYK7W6hFQh3gkKMd5Afw",
+        "youtube_video_id": "OUwxsLXuk4E",
+        "youtube_url": "https://www.youtube.com/watch?v=OUwxsLXuk4E"
+      },
+      {
+        "rank": 7,
+        "name": "Dionysus",
+        "artist": "PRESIDENT",
+        "album": "Blood Of Your Empire",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
+        "spotify_url": "https://open.spotify.com/track/65VPYhTJ6oIVhTJlCvcwrN",
+        "youtube_video_id": "0H-uNcxUYgI",
+        "youtube_url": "https://www.youtube.com/watch?v=0H-uNcxUYgI"
       },
       {
         "rank": 8,
-        "name": "perfidy",
+        "name": "nepenthe",
         "artist": "sace6",
         "album": "brutalist",
         "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/2TGBq8L3nkgm0hBnLGItKw",
-        "youtube_video_id": "7VPmgfVzKyM",
-        "youtube_url": "https://www.youtube.com/watch?v=7VPmgfVzKyM"
+        "spotify_url": "https://open.spotify.com/track/25jsM8QzO8gg4uo0p0wNjf",
+        "youtube_video_id": "P94t0pDat3U",
+        "youtube_url": "https://www.youtube.com/watch?v=P94t0pDat3U"
       },
       {
         "rank": 9,
-        "name": "Devour Me",
-        "artist": "Cenobia",
-        "album": "Devour Me",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0261486f8c832fade0af7e7c07",
-        "spotify_url": "https://open.spotify.com/track/2i0dpnfmrjwIWDHKFhkpFv",
-        "youtube_video_id": "b7gLnLakpvU",
-        "youtube_url": "https://www.youtube.com/watch?v=b7gLnLakpvU"
+        "name": "dark heaven",
+        "artist": "PRESIDENT",
+        "album": "Blood Of Your Empire",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
+        "spotify_url": "https://open.spotify.com/track/36k7LrL64JFHRdbQhOrClP",
+        "youtube_video_id": "Qasi0PBxJpw",
+        "youtube_url": "https://www.youtube.com/watch?v=Qasi0PBxJpw"
       },
       {
         "rank": 10,
-        "name": "rehearsed",
-        "artist": "thrown",
-        "album": "rehearsed",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02d2298844f7500ab00e9c7c82",
-        "spotify_url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO",
-        "youtube_video_id": "wO2LTe38WHU",
-        "youtube_url": "https://www.youtube.com/watch?v=wO2LTe38WHU"
+        "name": "Control Burns",
+        "artist": "156/Silence",
+        "album": "From A Distance",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02eefee0a77a434fa4cc5c50c7",
+        "spotify_url": "https://open.spotify.com/track/63lV55pNVCXjNhWMd7NIKe",
+        "youtube_video_id": "l8rld5EWl0w",
+        "youtube_url": "https://www.youtube.com/watch?v=l8rld5EWl0w"
       }
     ]
   },
@@ -200,6 +200,16 @@
       },
       {
         "rank": 10,
+        "name": "Dreamstate",
+        "artist": "Dayseeker",
+        "album": "Dark Sun",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02386e4e938647ef307de72919",
+        "spotify_url": "https://open.spotify.com/track/1BKShyqTh9TDWc3dFHYXkF",
+        "youtube_video_id": "VAc0qg69dnE",
+        "youtube_url": "https://www.youtube.com/watch?v=VAc0qg69dnE"
+      },
+      {
+        "rank": 11,
         "name": "Odyssey",
         "artist": "God Is An Astronaut",
         "album": "Embers",
@@ -209,7 +219,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=e1KtsfFSgxk"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Target Acquired",
         "artist": "156/Silence",
         "album": "People Watching",
@@ -219,7 +229,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=YEKwDbbbjGY"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "KINDA HARD",
         "artist": "Bilmuri",
         "album": "KINDA HARD",
@@ -227,16 +237,6 @@
         "spotify_url": "https://open.spotify.com/track/5NlskuFW0PJykKL7yd8j9K",
         "youtube_video_id": "FncfMa-Umcs",
         "youtube_url": "https://www.youtube.com/watch?v=FncfMa-Umcs"
-      },
-      {
-        "rank": 13,
-        "name": "Dreamstate",
-        "artist": "Dayseeker",
-        "album": "Dark Sun",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02386e4e938647ef307de72919",
-        "spotify_url": "https://open.spotify.com/track/1BKShyqTh9TDWc3dFHYXkF",
-        "youtube_video_id": "7abxfS42lqs",
-        "youtube_url": "https://www.youtube.com/watch?v=7abxfS42lqs"
       },
       {
         "rank": 14,
