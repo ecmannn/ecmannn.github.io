@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21",
+  "fetched_at": "2026-09-28",
   "month": {
     "time_range": "short_term",
     "tracks": [
@@ -15,16 +15,6 @@
       },
       {
         "rank": 2,
-        "name": "Angel Wings",
-        "artist": "PRESIDENT",
-        "album": "Blood Of Your Empire",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
-        "spotify_url": "https://open.spotify.com/track/4TrjpPYCFeBASiz8OVyjc8",
-        "youtube_video_id": "FD7nOPsNL9s",
-        "youtube_url": "https://www.youtube.com/watch?v=FD7nOPsNL9s"
-      },
-      {
-        "rank": 3,
         "name": "Sleepwalker",
         "artist": "PRESIDENT",
         "album": "Blood Of Your Empire",
@@ -34,47 +24,17 @@
         "youtube_url": "https://www.youtube.com/watch?v=HnB5mmPfUZU"
       },
       {
-        "rank": 4,
-        "name": "Control Burns",
-        "artist": "156/Silence",
-        "album": "From A Distance",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02eefee0a77a434fa4cc5c50c7",
-        "spotify_url": "https://open.spotify.com/track/63lV55pNVCXjNhWMd7NIKe",
-        "youtube_video_id": "l8rld5EWl0w",
-        "youtube_url": "https://www.youtube.com/watch?v=l8rld5EWl0w"
-      },
-      {
-        "rank": 5,
-        "name": "critic",
-        "artist": "thrown",
-        "album": "critic",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024fa0ee6e1db4801deb0c48ca",
-        "spotify_url": "https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7",
-        "youtube_video_id": "_ZEBPzETt80",
-        "youtube_url": "https://www.youtube.com/watch?v=_ZEBPzETt80"
-      },
-      {
-        "rank": 6,
-        "name": "DOOM LOOP",
+        "rank": 3,
+        "name": "Angel Wings",
         "artist": "PRESIDENT",
         "album": "Blood Of Your Empire",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
-        "spotify_url": "https://open.spotify.com/track/0EpeHS8qFeJlL35jtiDxMM",
-        "youtube_video_id": "M_kFhQrCUQE",
-        "youtube_url": "https://www.youtube.com/watch?v=M_kFhQrCUQE"
+        "spotify_url": "https://open.spotify.com/track/4TrjpPYCFeBASiz8OVyjc8",
+        "youtube_video_id": "i-gJbh7rask",
+        "youtube_url": "https://www.youtube.com/watch?v=i-gJbh7rask"
       },
       {
-        "rank": 7,
-        "name": "Devour Me",
-        "artist": "Cenobia",
-        "album": "Lethal Devotion",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0272a53226decee703d6903885",
-        "spotify_url": "https://open.spotify.com/track/5ga2Nk9X6NSQTh3Xd44rYf",
-        "youtube_video_id": "b7gLnLakpvU",
-        "youtube_url": "https://www.youtube.com/watch?v=b7gLnLakpvU"
-      },
-      {
-        "rank": 8,
+        "rank": 4,
         "name": "Dionysus",
         "artist": "PRESIDENT",
         "album": "Blood Of Your Empire",
@@ -84,24 +44,64 @@
         "youtube_url": "https://www.youtube.com/watch?v=0H-uNcxUYgI"
       },
       {
-        "rank": 9,
-        "name": "Swept From Under (Call of the Void)",
+        "rank": 5,
+        "name": "DOOM LOOP",
+        "artist": "PRESIDENT",
+        "album": "Blood Of Your Empire",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
+        "spotify_url": "https://open.spotify.com/track/0EpeHS8qFeJlL35jtiDxMM",
+        "youtube_video_id": "M_kFhQrCUQE",
+        "youtube_url": "https://www.youtube.com/watch?v=M_kFhQrCUQE"
+      },
+      {
+        "rank": 6,
+        "name": "Control Burns",
         "artist": "156/Silence",
         "album": "From A Distance",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02eefee0a77a434fa4cc5c50c7",
-        "spotify_url": "https://open.spotify.com/track/6qOSf7vfYCwcQfeqI5QPgX",
-        "youtube_video_id": "LrYC2qWhP6E",
-        "youtube_url": "https://www.youtube.com/watch?v=LrYC2qWhP6E"
+        "spotify_url": "https://open.spotify.com/track/63lV55pNVCXjNhWMd7NIKe",
+        "youtube_video_id": "l8rld5EWl0w",
+        "youtube_url": "https://www.youtube.com/watch?v=l8rld5EWl0w"
+      },
+      {
+        "rank": 7,
+        "name": "Pink Noise",
+        "artist": "PRESIDENT",
+        "album": "Blood Of Your Empire",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
+        "spotify_url": "https://open.spotify.com/track/5GSDdbsN5LXCfCmieKrqA1",
+        "youtube_video_id": "VcFoTM1Hgmg",
+        "youtube_url": "https://www.youtube.com/watch?v=VcFoTM1Hgmg"
+      },
+      {
+        "rank": 8,
+        "name": "Hate Figure (feat. Ando San)",
+        "artist": "PRESIDENT, Ando San",
+        "album": "Blood Of Your Empire",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
+        "spotify_url": "https://open.spotify.com/track/7CV0BHPnu0qzil9f71LCf5",
+        "youtube_video_id": "rr4AFLXGBe0",
+        "youtube_url": "https://www.youtube.com/watch?v=rr4AFLXGBe0"
+      },
+      {
+        "rank": 9,
+        "name": "Devour Me",
+        "artist": "Cenobia",
+        "album": "Lethal Devotion",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0272a53226decee703d6903885",
+        "spotify_url": "https://open.spotify.com/track/5ga2Nk9X6NSQTh3Xd44rYf",
+        "youtube_video_id": "b7gLnLakpvU",
+        "youtube_url": "https://www.youtube.com/watch?v=b7gLnLakpvU"
       },
       {
         "rank": 10,
-        "name": "Cannon Fodder (feat. Mike Hranica)",
-        "artist": "156/Silence, Mike Hranica",
-        "album": "From A Distance",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02eefee0a77a434fa4cc5c50c7",
-        "spotify_url": "https://open.spotify.com/track/12sl9tPzRFXUhnNOGq37GP",
-        "youtube_video_id": "PxrCK1XFjBk",
-        "youtube_url": "https://www.youtube.com/watch?v=PxrCK1XFjBk"
+        "name": "Mercy",
+        "artist": "PRESIDENT",
+        "album": "Blood Of Your Empire",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
+        "spotify_url": "https://open.spotify.com/track/6mPX0xes3OTYsf5iQGpQ4v",
+        "youtube_video_id": "33OcX4NSHr8",
+        "youtube_url": "https://www.youtube.com/watch?v=33OcX4NSHr8"
       }
     ]
   },
@@ -110,16 +110,6 @@
     "tracks": [
       {
         "rank": 1,
-        "name": "Whatever Alright",
-        "artist": "vianova",
-        "album": "Hit It!",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02daeb2cc78f4a1335ffe9ea6f",
-        "spotify_url": "https://open.spotify.com/track/18orpkCnIdbjRFgL09wvIn",
-        "youtube_video_id": "o-SURLJL-Tg",
-        "youtube_url": "https://www.youtube.com/watch?v=o-SURLJL-Tg"
-      },
-      {
-        "rank": 2,
         "name": "Squier Talk",
         "artist": "vianova",
         "album": "Hit It!",
@@ -127,6 +117,16 @@
         "spotify_url": "https://open.spotify.com/track/19LMSiPAc1Prev4mLWdDFt",
         "youtube_video_id": "cBu89Oo01RI",
         "youtube_url": "https://www.youtube.com/watch?v=cBu89Oo01RI"
+      },
+      {
+        "rank": 2,
+        "name": "Whatever Alright",
+        "artist": "vianova",
+        "album": "Hit It!",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02daeb2cc78f4a1335ffe9ea6f",
+        "spotify_url": "https://open.spotify.com/track/18orpkCnIdbjRFgL09wvIn",
+        "youtube_video_id": "o-SURLJL-Tg",
+        "youtube_url": "https://www.youtube.com/watch?v=o-SURLJL-Tg"
       },
       {
         "rank": 3,
@@ -165,8 +165,8 @@
         "album": "People Watching",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02049b3adcd9d9f926e91df19c",
         "spotify_url": "https://open.spotify.com/track/0BRvW4hfXMNBQoK6OAQPsa",
-        "youtube_video_id": "naqH83OXsfw",
-        "youtube_url": "https://www.youtube.com/watch?v=naqH83OXsfw"
+        "youtube_video_id": "ijRFcqz0erM",
+        "youtube_url": "https://www.youtube.com/watch?v=ijRFcqz0erM"
       },
       {
         "rank": 7,
@@ -180,16 +180,6 @@
       },
       {
         "rank": 8,
-        "name": "Apparition",
-        "artist": "God Is An Astronaut",
-        "album": "Embers",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02ca3f5d8ba8f46287dd4fa657",
-        "spotify_url": "https://open.spotify.com/track/10gnT8bebmECAxdohax2HX",
-        "youtube_video_id": "tCCCm084UVA",
-        "youtube_url": "https://www.youtube.com/watch?v=tCCCm084UVA"
-      },
-      {
-        "rank": 9,
         "name": "Feeding the Gods",
         "artist": "Wind Walkers",
         "album": "What If I Break?",
@@ -199,7 +189,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=A4iy3WrmsBk"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Dreamstate",
         "artist": "Dayseeker",
         "album": "Dark Sun",
@@ -207,6 +197,16 @@
         "spotify_url": "https://open.spotify.com/track/1BKShyqTh9TDWc3dFHYXkF",
         "youtube_video_id": "7abxfS42lqs",
         "youtube_url": "https://www.youtube.com/watch?v=7abxfS42lqs"
+      },
+      {
+        "rank": 10,
+        "name": "Apparition",
+        "artist": "God Is An Astronaut",
+        "album": "Embers",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ca3f5d8ba8f46287dd4fa657",
+        "spotify_url": "https://open.spotify.com/track/10gnT8bebmECAxdohax2HX",
+        "youtube_video_id": "tCCCm084UVA",
+        "youtube_url": "https://www.youtube.com/watch?v=tCCCm084UVA"
       },
       {
         "rank": 11,
@@ -290,16 +290,6 @@
       },
       {
         "rank": 19,
-        "name": "Odyssey",
-        "artist": "God Is An Astronaut",
-        "album": "Embers",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02ca3f5d8ba8f46287dd4fa657",
-        "spotify_url": "https://open.spotify.com/track/2SCG9jZw6KxSI04bAtc17M",
-        "youtube_video_id": "e1KtsfFSgxk",
-        "youtube_url": "https://www.youtube.com/watch?v=e1KtsfFSgxk"
-      },
-      {
-        "rank": 20,
         "name": "Gethsemane",
         "artist": "Sleep Token",
         "album": "Even In Arcadia",
@@ -309,7 +299,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=EuwLeCs9z2o"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "name": "THE END",
         "artist": "Bilmuri",
         "album": "AMERICAN MOTOR SPORTS (420CC EDITION)",
@@ -319,7 +309,27 @@
         "youtube_url": "https://www.youtube.com/watch?v=wD9UdaXcV5g"
       },
       {
+        "rank": 21,
+        "name": "Odyssey",
+        "artist": "God Is An Astronaut",
+        "album": "Embers",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ca3f5d8ba8f46287dd4fa657",
+        "spotify_url": "https://open.spotify.com/track/2SCG9jZw6KxSI04bAtc17M",
+        "youtube_video_id": "e1KtsfFSgxk",
+        "youtube_url": "https://www.youtube.com/watch?v=e1KtsfFSgxk"
+      },
+      {
         "rank": 22,
+        "name": "Gemini",
+        "artist": "Loathe",
+        "album": "A Stranger To You",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
+        "spotify_url": "https://open.spotify.com/track/6LTYK7W6hFQh3gkKMd5Afw",
+        "youtube_video_id": "OUwxsLXuk4E",
+        "youtube_url": "https://www.youtube.com/watch?v=OUwxsLXuk4E"
+      },
+      {
+        "rank": 23,
         "name": "Dionysus",
         "artist": "PRESIDENT",
         "album": "King Of Terrors",
@@ -327,16 +337,6 @@
         "spotify_url": "https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1",
         "youtube_video_id": "0H-uNcxUYgI",
         "youtube_url": "https://www.youtube.com/watch?v=0H-uNcxUYgI"
-      },
-      {
-        "rank": 23,
-        "name": "Falling Leaves",
-        "artist": "God Is An Astronaut",
-        "album": "Embers",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02ca3f5d8ba8f46287dd4fa657",
-        "spotify_url": "https://open.spotify.com/track/2t141HAchHp0nX6YyrUKLt",
-        "youtube_video_id": "NoSSmzA7NGs",
-        "youtube_url": "https://www.youtube.com/watch?v=NoSSmzA7NGs"
       },
       {
         "rank": 24,
