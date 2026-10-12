@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-10-05",
+  "fetched_at": "2026-10-12",
   "month": {
     "time_range": "short_term",
     "tracks": [
       {
         "rank": 1,
-        "name": "White Devil",
-        "artist": "PRESIDENT",
-        "album": "Blood Of Your Empire",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
-        "spotify_url": "https://open.spotify.com/track/75kgR8V9p8sCqPzBB9ID9u",
-        "youtube_video_id": "yykLfu3es8s",
-        "youtube_url": "https://www.youtube.com/watch?v=yykLfu3es8s"
+        "name": "Reanimate",
+        "artist": "Holding Absence",
+        "album": "Modern Life Is Lonely",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e026237e76bf3eca6f029659912",
+        "spotify_url": "https://open.spotify.com/track/38JW7Bk0yD6o94ARCWcZJh",
+        "youtube_video_id": "foAEMgk1NFA",
+        "youtube_url": "https://www.youtube.com/watch?v=foAEMgk1NFA"
       },
       {
         "rank": 2,
-        "name": "Sleepwalker",
-        "artist": "PRESIDENT",
-        "album": "Blood Of Your Empire",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
-        "spotify_url": "https://open.spotify.com/track/0qFmjpNGhjaxp789YQ7zMb",
-        "youtube_video_id": "HnB5mmPfUZU",
-        "youtube_url": "https://www.youtube.com/watch?v=HnB5mmPfUZU"
+        "name": "Kyoto Snow",
+        "artist": "Holding Absence",
+        "album": "Modern Life Is Lonely",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e026237e76bf3eca6f029659912",
+        "spotify_url": "https://open.spotify.com/track/6aOV2nWSB8QCNspITCS8dS",
+        "youtube_video_id": "c-vZmWf4XEM",
+        "youtube_url": "https://www.youtube.com/watch?v=c-vZmWf4XEM"
       },
       {
         "rank": 3,
@@ -35,73 +35,73 @@
       },
       {
         "rank": 4,
-        "name": "Dionysus",
-        "artist": "PRESIDENT",
-        "album": "Blood Of Your Empire",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
-        "spotify_url": "https://open.spotify.com/track/65VPYhTJ6oIVhTJlCvcwrN",
-        "youtube_video_id": "0H-uNcxUYgI",
-        "youtube_url": "https://www.youtube.com/watch?v=0H-uNcxUYgI"
-      },
-      {
-        "rank": 5,
-        "name": "Reanimate",
+        "name": "Reflection",
         "artist": "Holding Absence",
         "album": "Modern Life Is Lonely",
         "album_art": "https://i.scdn.co/image/ab67616d00001e026237e76bf3eca6f029659912",
-        "spotify_url": "https://open.spotify.com/track/38JW7Bk0yD6o94ARCWcZJh",
-        "youtube_video_id": "igv0EQj39TQ",
-        "youtube_url": "https://www.youtube.com/watch?v=igv0EQj39TQ"
+        "spotify_url": "https://open.spotify.com/track/4YcT4cxVdyeFSIgVMVlB2a",
+        "youtube_video_id": "X4qxOMUTIDg",
+        "youtube_url": "https://www.youtube.com/watch?v=X4qxOMUTIDg"
+      },
+      {
+        "rank": 5,
+        "name": "Archipelago",
+        "artist": "Exploring Birdsong",
+        "album": "Every House We Built",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024c751595c3b511b6c99f1824",
+        "spotify_url": "https://open.spotify.com/track/5dPNLk9u7KCKdfUEQc1J4h",
+        "youtube_video_id": "Wpo5xww00LA",
+        "youtube_url": "https://www.youtube.com/watch?v=Wpo5xww00LA"
       },
       {
         "rank": 6,
-        "name": "DOOM LOOP",
-        "artist": "PRESIDENT",
-        "album": "Blood Of Your Empire",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
-        "spotify_url": "https://open.spotify.com/track/0EpeHS8qFeJlL35jtiDxMM",
-        "youtube_video_id": "czL2nIdPe-Y",
-        "youtube_url": "https://www.youtube.com/watch?v=czL2nIdPe-Y"
+        "name": "Heaven",
+        "artist": "Holding Absence",
+        "album": "Modern Life Is Lonely",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e026237e76bf3eca6f029659912",
+        "spotify_url": "https://open.spotify.com/track/59ou5ZzaV1YypU9f2gTIr0",
+        "youtube_video_id": "gXcapkDd_j4",
+        "youtube_url": "https://www.youtube.com/watch?v=gXcapkDd_j4"
       },
       {
         "rank": 7,
-        "name": "Control Burns",
-        "artist": "156/Silence",
-        "album": "From A Distance",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02eefee0a77a434fa4cc5c50c7",
-        "spotify_url": "https://open.spotify.com/track/63lV55pNVCXjNhWMd7NIKe",
-        "youtube_video_id": "l8rld5EWl0w",
-        "youtube_url": "https://www.youtube.com/watch?v=l8rld5EWl0w"
+        "name": "Whisper Of A Dream",
+        "artist": "Holding Absence",
+        "album": "Modern Life Is Lonely",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e026237e76bf3eca6f029659912",
+        "spotify_url": "https://open.spotify.com/track/2LRxcDlrl6Z2yqSzSIVnEO",
+        "youtube_video_id": "o7QbtEsO3zE",
+        "youtube_url": "https://www.youtube.com/watch?v=o7QbtEsO3zE"
       },
       {
         "rank": 8,
-        "name": "Pink Noise",
-        "artist": "PRESIDENT",
-        "album": "Blood Of Your Empire",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
-        "spotify_url": "https://open.spotify.com/track/5GSDdbsN5LXCfCmieKrqA1",
-        "youtube_video_id": "VcFoTM1Hgmg",
-        "youtube_url": "https://www.youtube.com/watch?v=VcFoTM1Hgmg"
+        "name": "The Wounds We Share",
+        "artist": "A Sense of Purpose",
+        "album": "The Wounds We Share",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02877f2730a6218b25441b735f",
+        "spotify_url": "https://open.spotify.com/track/3iXz5NVmYv1TQHvDHawB28",
+        "youtube_video_id": "0oq9A5DnABU",
+        "youtube_url": "https://www.youtube.com/watch?v=0oq9A5DnABU"
       },
       {
         "rank": 9,
-        "name": "Hate Figure (feat. Ando San)",
-        "artist": "PRESIDENT, Ando San",
-        "album": "Blood Of Your Empire",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
-        "spotify_url": "https://open.spotify.com/track/7CV0BHPnu0qzil9f71LCf5",
-        "youtube_video_id": "rr4AFLXGBe0",
-        "youtube_url": "https://www.youtube.com/watch?v=rr4AFLXGBe0"
+        "name": "Lucid Love",
+        "artist": "Holding Absence",
+        "album": "Modern Life Is Lonely",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e026237e76bf3eca6f029659912",
+        "spotify_url": "https://open.spotify.com/track/7boZAFxUp82GSDkxYnAnn9",
+        "youtube_video_id": "NV_TbHYkQcc",
+        "youtube_url": "https://www.youtube.com/watch?v=NV_TbHYkQcc"
       },
       {
         "rank": 10,
-        "name": "Mercy",
+        "name": "Sleepwalker",
         "artist": "PRESIDENT",
         "album": "Blood Of Your Empire",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
-        "spotify_url": "https://open.spotify.com/track/6mPX0xes3OTYsf5iQGpQ4v",
-        "youtube_video_id": "33OcX4NSHr8",
-        "youtube_url": "https://www.youtube.com/watch?v=33OcX4NSHr8"
+        "spotify_url": "https://open.spotify.com/track/0qFmjpNGhjaxp789YQ7zMb",
+        "youtube_video_id": "HnB5mmPfUZU",
+        "youtube_url": "https://www.youtube.com/watch?v=HnB5mmPfUZU"
       }
     ]
   },
@@ -285,8 +285,8 @@
         "album": "People Watching",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02049b3adcd9d9f926e91df19c",
         "spotify_url": "https://open.spotify.com/track/6BuRHBZMDfvvp87RCvc1fA",
-        "youtube_video_id": "Il7wqxtIOK0",
-        "youtube_url": "https://www.youtube.com/watch?v=Il7wqxtIOK0"
+        "youtube_video_id": "8MuNq-u1kbc",
+        "youtube_url": "https://www.youtube.com/watch?v=8MuNq-u1kbc"
       },
       {
         "rank": 19,
@@ -340,16 +340,6 @@
       },
       {
         "rank": 24,
-        "name": "Apparition",
-        "artist": "God Is An Astronaut",
-        "album": "Embers",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02ca3f5d8ba8f46287dd4fa657",
-        "spotify_url": "https://open.spotify.com/track/10gnT8bebmECAxdohax2HX",
-        "youtube_video_id": "tCCCm084UVA",
-        "youtube_url": "https://www.youtube.com/watch?v=tCCCm084UVA"
-      },
-      {
-        "rank": 25,
         "name": "Más Rápido",
         "artist": "vianova",
         "album": "Hit It!",
@@ -357,6 +347,16 @@
         "spotify_url": "https://open.spotify.com/track/4PQrriLa0NasnTnkjBe9dp",
         "youtube_video_id": "wBXcBccTSTQ",
         "youtube_url": "https://www.youtube.com/watch?v=wBXcBccTSTQ"
+      },
+      {
+        "rank": 25,
+        "name": "Cannibal (feat. Anders Fridén)",
+        "artist": "VOLA, Anders Friden, In Flames",
+        "album": "Friend Of A Phantom",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e83f5d91704572a70fde854a",
+        "spotify_url": "https://open.spotify.com/track/1prhJo0ltaMJa5T0Y7l0kz",
+        "youtube_video_id": "n-5xyCwH0mk",
+        "youtube_url": "https://www.youtube.com/watch?v=n-5xyCwH0mk"
       }
     ]
   }
