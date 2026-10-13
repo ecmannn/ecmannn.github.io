@@ -19,7 +19,7 @@ I welcome drop-ins as well as appointments reserved at the link above. If none o
 
 ## Teaching Assistant
 ### International Relations
-- Introduction to International Relations **(w/ Section)** (Fall 2025)
+- Introduction to International Relations **(w/ Section)** (Fall 2025, Fall 2026)
 - Politics and Warfare (Summer 2025)
 - Spies, Intelligence, and National Security (Fall 2024)
 - Weapons of Mass Destruction (Spring 2024)
