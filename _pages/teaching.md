@@ -11,11 +11,6 @@ author_profile: true
 I welcome drop-ins as well as appointments reserved at the link above. If none of the times work, please feel free to email me and suggest some times that work for you: ecmann@ucsd.edu.
 
 # UC San Diego
-<!-- ## Teaching Assistant w/ Sections
-- 
-- 
-- 
--  -->
 
 ## Teaching Assistant
 ### International Relations

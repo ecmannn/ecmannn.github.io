@@ -15,7 +15,6 @@ author_profile: true
 - **The Missing Link: International Determinants of Democratic Backsliding.**
 - **Global Trade and Interstate Conflict: The Indirect Origins of Liberal Peace.** (w/ Erik Gartzke).
 - **The Political Geography of Militarized Interstate Conflict: How Trade Shapes the Location of Military Bases.** (w/ Erik Gartzke).
-- **Cameras and Contention: Protest, Placement, and the Privatization of American Surveillance.**
 
 ## Other Publications
 - **The Battle Between Climate Winners and Losers Heats Up.** 2025. Institute on Global Conflict and Cooperation.
