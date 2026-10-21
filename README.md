@@ -2,7 +2,7 @@
 
 Source for my personal academic website: **[www.evan-mann.com](https://www.evan-mann.com)**.
 
-I'm a PhD student in Political Science at UC San Diego. The site hosts my CV, research, and teaching information.
+I'm a Ph.D. Candidate in Political Science at UC San Diego. The site hosts my CV, research, and teaching information.
 
 ## Built with
 
