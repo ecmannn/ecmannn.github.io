@@ -1,20 +1,10 @@
 {
-  "fetched_at": "2026-10-19",
+  "fetched_at": "2026-10-26",
   "month": {
     "time_range": "short_term",
     "tracks": [
       {
         "rank": 1,
-        "name": "Reanimate",
-        "artist": "Holding Absence",
-        "album": "Modern Life Is Lonely",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e026237e76bf3eca6f029659912",
-        "spotify_url": "https://open.spotify.com/track/38JW7Bk0yD6o94ARCWcZJh",
-        "youtube_video_id": "foAEMgk1NFA",
-        "youtube_url": "https://www.youtube.com/watch?v=foAEMgk1NFA"
-      },
-      {
-        "rank": 2,
         "name": "Archipelago",
         "artist": "Exploring Birdsong",
         "album": "Every House We Built",
@@ -24,17 +14,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=Wpo5xww00LA"
       },
       {
-        "rank": 3,
-        "name": "Kyoto Snow",
-        "artist": "Holding Absence",
-        "album": "Modern Life Is Lonely",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e026237e76bf3eca6f029659912",
-        "spotify_url": "https://open.spotify.com/track/6aOV2nWSB8QCNspITCS8dS",
-        "youtube_video_id": "c-vZmWf4XEM",
-        "youtube_url": "https://www.youtube.com/watch?v=c-vZmWf4XEM"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "name": "A Spill of Dreams",
         "artist": "Above, Below",
         "album": "I Guess It Was Nowhere",
@@ -44,17 +24,27 @@
         "youtube_url": "https://www.youtube.com/watch?v=r9sOqLYld8M"
       },
       {
-        "rank": 5,
-        "name": "Whisper Of A Dream",
+        "rank": 3,
+        "name": "Reanimate",
         "artist": "Holding Absence",
         "album": "Modern Life Is Lonely",
         "album_art": "https://i.scdn.co/image/ab67616d00001e026237e76bf3eca6f029659912",
-        "spotify_url": "https://open.spotify.com/track/2LRxcDlrl6Z2yqSzSIVnEO",
-        "youtube_video_id": "o7QbtEsO3zE",
-        "youtube_url": "https://www.youtube.com/watch?v=o7QbtEsO3zE"
+        "spotify_url": "https://open.spotify.com/track/38JW7Bk0yD6o94ARCWcZJh",
+        "youtube_video_id": "foAEMgk1NFA",
+        "youtube_url": "https://www.youtube.com/watch?v=foAEMgk1NFA"
       },
       {
-        "rank": 6,
+        "rank": 4,
+        "name": "In Rain (Portal)",
+        "artist": "Above, Below",
+        "album": "I Guess It Was Nowhere",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02601b9b0073cbca7624a25fee",
+        "spotify_url": "https://open.spotify.com/track/3ySlQDKiNmIURoSrdV5pCw",
+        "youtube_video_id": "KUVwc3QQ-KY",
+        "youtube_url": "https://www.youtube.com/watch?v=KUVwc3QQ-KY"
+      },
+      {
+        "rank": 5,
         "name": "You Like It Best When It Hurts",
         "artist": "Exploring Birdsong",
         "album": "Every House We Built",
@@ -64,44 +54,54 @@
         "youtube_url": "https://www.youtube.com/watch?v=vNOAC9BuBP4"
       },
       {
+        "rank": 6,
+        "name": "Starbreather",
+        "artist": "Above, Below",
+        "album": "I Guess It Was Nowhere",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02601b9b0073cbca7624a25fee",
+        "spotify_url": "https://open.spotify.com/track/2EmOv35dL1ZOoYQo49yjk7",
+        "youtube_video_id": "Gke5aKXFcOA",
+        "youtube_url": "https://www.youtube.com/watch?v=Gke5aKXFcOA"
+      },
+      {
         "rank": 7,
-        "name": "Angel Wings",
-        "artist": "PRESIDENT",
-        "album": "Blood Of Your Empire",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
-        "spotify_url": "https://open.spotify.com/track/4TrjpPYCFeBASiz8OVyjc8",
-        "youtube_video_id": "i-gJbh7rask",
-        "youtube_url": "https://www.youtube.com/watch?v=i-gJbh7rask"
+        "name": "Prism",
+        "artist": "Above, Below",
+        "album": "I Guess It Was Nowhere",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02601b9b0073cbca7624a25fee",
+        "spotify_url": "https://open.spotify.com/track/3jfpUxMMEr8awJNZQlslf6",
+        "youtube_video_id": "tX_23613hr4",
+        "youtube_url": "https://www.youtube.com/watch?v=tX_23613hr4"
       },
       {
         "rank": 8,
-        "name": "Reflection",
-        "artist": "Holding Absence",
-        "album": "Modern Life Is Lonely",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e026237e76bf3eca6f029659912",
-        "spotify_url": "https://open.spotify.com/track/4YcT4cxVdyeFSIgVMVlB2a",
-        "youtube_video_id": "X4qxOMUTIDg",
-        "youtube_url": "https://www.youtube.com/watch?v=X4qxOMUTIDg"
-      },
-      {
-        "rank": 9,
-        "name": "Scorched Earth",
-        "artist": "Holding Absence",
-        "album": "Modern Life Is Lonely",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e026237e76bf3eca6f029659912",
-        "spotify_url": "https://open.spotify.com/track/66y6oEQs6kNLiFT9U8P8y7",
-        "youtube_video_id": "bjQ8E95s2D4",
-        "youtube_url": "https://www.youtube.com/watch?v=bjQ8E95s2D4"
-      },
-      {
-        "rank": 10,
-        "name": "Romanticise",
+        "name": "The Warning",
         "artist": "Exploring Birdsong",
         "album": "Every House We Built",
         "album_art": "https://i.scdn.co/image/ab67616d00001e024c751595c3b511b6c99f1824",
-        "spotify_url": "https://open.spotify.com/track/3d5r19oEK1jrb8UFShzwVX",
-        "youtube_video_id": "up8mCDXsUR8",
-        "youtube_url": "https://www.youtube.com/watch?v=up8mCDXsUR8"
+        "spotify_url": "https://open.spotify.com/track/3wRIT6Ve8yYNCL7T6peK5J",
+        "youtube_video_id": "A8EQdDwLCcw",
+        "youtube_url": "https://www.youtube.com/watch?v=A8EQdDwLCcw"
+      },
+      {
+        "rank": 9,
+        "name": "The Hands That Held Exploding Suns",
+        "artist": "Above, Below",
+        "album": "I Guess It Was Nowhere",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02601b9b0073cbca7624a25fee",
+        "spotify_url": "https://open.spotify.com/track/44HfmFoDAXJryTiHexS8AE",
+        "youtube_video_id": "BlaKL0GNWPQ",
+        "youtube_url": "https://www.youtube.com/watch?v=BlaKL0GNWPQ"
+      },
+      {
+        "rank": 10,
+        "name": "Soothsayer",
+        "artist": "Above, Below",
+        "album": "I Guess It Was Nowhere",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02601b9b0073cbca7624a25fee",
+        "spotify_url": "https://open.spotify.com/track/2p8OtDHXlxMH1oG9XmBsb7",
+        "youtube_video_id": "sXpKW5RCpqA",
+        "youtube_url": "https://www.youtube.com/watch?v=sXpKW5RCpqA"
       }
     ]
   },
@@ -165,8 +165,8 @@
         "album": "People Watching",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02049b3adcd9d9f926e91df19c",
         "spotify_url": "https://open.spotify.com/track/0BRvW4hfXMNBQoK6OAQPsa",
-        "youtube_video_id": "ijRFcqz0erM",
-        "youtube_url": "https://www.youtube.com/watch?v=ijRFcqz0erM"
+        "youtube_video_id": "naqH83OXsfw",
+        "youtube_url": "https://www.youtube.com/watch?v=naqH83OXsfw"
       },
       {
         "rank": 7,
@@ -195,8 +195,8 @@
         "album": "Dark Sun",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02386e4e938647ef307de72919",
         "spotify_url": "https://open.spotify.com/track/1BKShyqTh9TDWc3dFHYXkF",
-        "youtube_video_id": "ygX0QJf_7rU",
-        "youtube_url": "https://www.youtube.com/watch?v=ygX0QJf_7rU"
+        "youtube_video_id": "7abxfS42lqs",
+        "youtube_url": "https://www.youtube.com/watch?v=7abxfS42lqs"
       },
       {
         "rank": 10,
@@ -305,8 +305,8 @@
         "album": "A Stranger To You",
         "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
         "spotify_url": "https://open.spotify.com/track/6LTYK7W6hFQh3gkKMd5Afw",
-        "youtube_video_id": "OUwxsLXuk4E",
-        "youtube_url": "https://www.youtube.com/watch?v=OUwxsLXuk4E"
+        "youtube_video_id": "oJtj76dV2Rw",
+        "youtube_url": "https://www.youtube.com/watch?v=oJtj76dV2Rw"
       },
       {
         "rank": 21,
@@ -320,6 +320,16 @@
       },
       {
         "rank": 22,
+        "name": "covet",
+        "artist": "sace6",
+        "album": "brutalist",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
+        "spotify_url": "https://open.spotify.com/track/75F1PnYhdRwu83aSi4y7O1",
+        "youtube_video_id": "4Nn4Surv5xo",
+        "youtube_url": "https://www.youtube.com/watch?v=4Nn4Surv5xo"
+      },
+      {
+        "rank": 23,
         "name": "Destroy Me",
         "artist": "PRESIDENT",
         "album": "King Of Terrors",
@@ -329,7 +339,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=BiBFxKsuW8o"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "name": "Provider",
         "artist": "Sleep Token",
         "album": "Even In Arcadia",
@@ -339,7 +349,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=Sh2vn13Wakg"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "name": "Más Rápido",
         "artist": "vianova",
         "album": "Hit It!",
@@ -347,16 +357,6 @@
         "spotify_url": "https://open.spotify.com/track/4PQrriLa0NasnTnkjBe9dp",
         "youtube_video_id": "wBXcBccTSTQ",
         "youtube_url": "https://www.youtube.com/watch?v=wBXcBccTSTQ"
-      },
-      {
-        "rank": 25,
-        "name": "covet",
-        "artist": "sace6",
-        "album": "brutalist",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e024664fbb38e7d81c9f2338983",
-        "spotify_url": "https://open.spotify.com/track/75F1PnYhdRwu83aSi4y7O1",
-        "youtube_video_id": "4Nn4Surv5xo",
-        "youtube_url": "https://www.youtube.com/watch?v=4Nn4Surv5xo"
       }
     ]
   }
