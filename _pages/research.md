@@ -9,7 +9,7 @@ author_profile: true
 - **Climate Change, Arctic Trade Routes, and Overseas Military Bases.** (w/ Erik Gartzke).
   <!-- [PDF](#) · [Code](#) -->
 - **The Political Geography of Militarized Interstate Conflict: How Trade Shapes the Location of Military Bases.** (w/ Erik Gartzke).
-- **All Quiet on the Economic Front: War, Iran, and Coercive Economic Threats in Interstate Crises. With Erik Gartzke.**
+- **All Quiet on the Economic Front: War, Iran, and Coercive Economic Threats in Interstate Crises.** (w/ Erik Gartzke).
 
 ## Working Papers
 - **What Counts as Rope: Strategic Value, Enforceability, and the Product-Level Politics of Export Controls.**
