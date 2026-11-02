@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26",
+  "fetched_at": "2026-11-02",
   "month": {
     "time_range": "short_term",
     "tracks": [
@@ -15,6 +15,26 @@
       },
       {
         "rank": 2,
+        "name": "You Like It Best When It Hurts",
+        "artist": "Exploring Birdsong",
+        "album": "Every House We Built",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024c751595c3b511b6c99f1824",
+        "spotify_url": "https://open.spotify.com/track/26MKE9l7oAi5R3Yz8hCvXf",
+        "youtube_video_id": "vNOAC9BuBP4",
+        "youtube_url": "https://www.youtube.com/watch?v=vNOAC9BuBP4"
+      },
+      {
+        "rank": 3,
+        "name": "In Rain (Portal)",
+        "artist": "Above, Below",
+        "album": "I Guess It Was Nowhere",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02601b9b0073cbca7624a25fee",
+        "spotify_url": "https://open.spotify.com/track/3ySlQDKiNmIURoSrdV5pCw",
+        "youtube_video_id": "f9DUp8njZH8",
+        "youtube_url": "https://www.youtube.com/watch?v=f9DUp8njZH8"
+      },
+      {
+        "rank": 4,
         "name": "A Spill of Dreams",
         "artist": "Above, Below",
         "album": "I Guess It Was Nowhere",
@@ -24,34 +44,14 @@
         "youtube_url": "https://www.youtube.com/watch?v=r9sOqLYld8M"
       },
       {
-        "rank": 3,
-        "name": "Reanimate",
-        "artist": "Holding Absence",
-        "album": "Modern Life Is Lonely",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e026237e76bf3eca6f029659912",
-        "spotify_url": "https://open.spotify.com/track/38JW7Bk0yD6o94ARCWcZJh",
-        "youtube_video_id": "foAEMgk1NFA",
-        "youtube_url": "https://www.youtube.com/watch?v=foAEMgk1NFA"
-      },
-      {
-        "rank": 4,
-        "name": "In Rain (Portal)",
-        "artist": "Above, Below",
-        "album": "I Guess It Was Nowhere",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02601b9b0073cbca7624a25fee",
-        "spotify_url": "https://open.spotify.com/track/3ySlQDKiNmIURoSrdV5pCw",
-        "youtube_video_id": "KUVwc3QQ-KY",
-        "youtube_url": "https://www.youtube.com/watch?v=KUVwc3QQ-KY"
-      },
-      {
         "rank": 5,
-        "name": "You Like It Best When It Hurts",
+        "name": "The Warning",
         "artist": "Exploring Birdsong",
         "album": "Every House We Built",
         "album_art": "https://i.scdn.co/image/ab67616d00001e024c751595c3b511b6c99f1824",
-        "spotify_url": "https://open.spotify.com/track/26MKE9l7oAi5R3Yz8hCvXf",
-        "youtube_video_id": "vNOAC9BuBP4",
-        "youtube_url": "https://www.youtube.com/watch?v=vNOAC9BuBP4"
+        "spotify_url": "https://open.spotify.com/track/3wRIT6Ve8yYNCL7T6peK5J",
+        "youtube_video_id": "A8EQdDwLCcw",
+        "youtube_url": "https://www.youtube.com/watch?v=A8EQdDwLCcw"
       },
       {
         "rank": 6,
@@ -75,33 +75,33 @@
       },
       {
         "rank": 8,
-        "name": "The Warning",
+        "name": "Spy In The House Of Love",
         "artist": "Exploring Birdsong",
         "album": "Every House We Built",
         "album_art": "https://i.scdn.co/image/ab67616d00001e024c751595c3b511b6c99f1824",
-        "spotify_url": "https://open.spotify.com/track/3wRIT6Ve8yYNCL7T6peK5J",
-        "youtube_video_id": "A8EQdDwLCcw",
-        "youtube_url": "https://www.youtube.com/watch?v=A8EQdDwLCcw"
+        "spotify_url": "https://open.spotify.com/track/4pxZ9MtHQHXVSWfiim0TsD",
+        "youtube_video_id": "YM9ZBblQn9o",
+        "youtube_url": "https://www.youtube.com/watch?v=YM9ZBblQn9o"
       },
       {
         "rank": 9,
-        "name": "The Hands That Held Exploding Suns",
-        "artist": "Above, Below",
-        "album": "I Guess It Was Nowhere",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02601b9b0073cbca7624a25fee",
-        "spotify_url": "https://open.spotify.com/track/44HfmFoDAXJryTiHexS8AE",
-        "youtube_video_id": "BlaKL0GNWPQ",
-        "youtube_url": "https://www.youtube.com/watch?v=BlaKL0GNWPQ"
+        "name": "With All That’s Left",
+        "artist": "Cold Night For Alligators",
+        "album": "With All That’s Left",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02cf23347a79204f1116d522a2",
+        "spotify_url": "https://open.spotify.com/track/6KD9gGduajZ0f0IZQS2K89",
+        "youtube_video_id": "SAx01yi5LD8",
+        "youtube_url": "https://www.youtube.com/watch?v=SAx01yi5LD8"
       },
       {
         "rank": 10,
-        "name": "Soothsayer",
-        "artist": "Above, Below",
-        "album": "I Guess It Was Nowhere",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02601b9b0073cbca7624a25fee",
-        "spotify_url": "https://open.spotify.com/track/2p8OtDHXlxMH1oG9XmBsb7",
-        "youtube_video_id": "sXpKW5RCpqA",
-        "youtube_url": "https://www.youtube.com/watch?v=sXpKW5RCpqA"
+        "name": "Cartography",
+        "artist": "Exploring Birdsong",
+        "album": "Every House We Built",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024c751595c3b511b6c99f1824",
+        "spotify_url": "https://open.spotify.com/track/6vRSUjr67AH2LciorahgQI",
+        "youtube_video_id": "i3pcK9yHd8Q",
+        "youtube_url": "https://www.youtube.com/watch?v=i3pcK9yHd8Q"
       }
     ]
   },
@@ -110,16 +110,6 @@
     "tracks": [
       {
         "rank": 1,
-        "name": "Squier Talk",
-        "artist": "vianova",
-        "album": "Hit It!",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02daeb2cc78f4a1335ffe9ea6f",
-        "spotify_url": "https://open.spotify.com/track/19LMSiPAc1Prev4mLWdDFt",
-        "youtube_video_id": "cBu89Oo01RI",
-        "youtube_url": "https://www.youtube.com/watch?v=cBu89Oo01RI"
-      },
-      {
-        "rank": 2,
         "name": "Whatever Alright",
         "artist": "vianova",
         "album": "Hit It!",
@@ -127,6 +117,16 @@
         "spotify_url": "https://open.spotify.com/track/18orpkCnIdbjRFgL09wvIn",
         "youtube_video_id": "o-SURLJL-Tg",
         "youtube_url": "https://www.youtube.com/watch?v=o-SURLJL-Tg"
+      },
+      {
+        "rank": 2,
+        "name": "Squier Talk",
+        "artist": "vianova",
+        "album": "Hit It!",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02daeb2cc78f4a1335ffe9ea6f",
+        "spotify_url": "https://open.spotify.com/track/19LMSiPAc1Prev4mLWdDFt",
+        "youtube_video_id": "cBu89Oo01RI",
+        "youtube_url": "https://www.youtube.com/watch?v=cBu89Oo01RI"
       },
       {
         "rank": 3,
@@ -305,11 +305,21 @@
         "album": "A Stranger To You",
         "album_art": "https://i.scdn.co/image/ab67616d00001e022244c635d7f41716d16150df",
         "spotify_url": "https://open.spotify.com/track/6LTYK7W6hFQh3gkKMd5Afw",
-        "youtube_video_id": "oJtj76dV2Rw",
-        "youtube_url": "https://www.youtube.com/watch?v=oJtj76dV2Rw"
+        "youtube_video_id": "OUwxsLXuk4E",
+        "youtube_url": "https://www.youtube.com/watch?v=OUwxsLXuk4E"
       },
       {
         "rank": 21,
+        "name": "Cannibal (feat. Anders Fridén)",
+        "artist": "VOLA, Anders Friden, In Flames",
+        "album": "Friend Of A Phantom",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e83f5d91704572a70fde854a",
+        "spotify_url": "https://open.spotify.com/track/1prhJo0ltaMJa5T0Y7l0kz",
+        "youtube_video_id": "n-5xyCwH0mk",
+        "youtube_url": "https://www.youtube.com/watch?v=n-5xyCwH0mk"
+      },
+      {
+        "rank": 22,
         "name": "Dionysus",
         "artist": "PRESIDENT",
         "album": "King Of Terrors",
@@ -319,7 +329,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=0H-uNcxUYgI"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "name": "covet",
         "artist": "sace6",
         "album": "brutalist",
@@ -329,7 +339,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=4Nn4Surv5xo"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "name": "Destroy Me",
         "artist": "PRESIDENT",
         "album": "King Of Terrors",
@@ -339,7 +349,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=BiBFxKsuW8o"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "name": "Provider",
         "artist": "Sleep Token",
         "album": "Even In Arcadia",
@@ -347,16 +357,6 @@
         "spotify_url": "https://open.spotify.com/track/7JVAVLkkhpKOp8g4jX5Z12",
         "youtube_video_id": "Sh2vn13Wakg",
         "youtube_url": "https://www.youtube.com/watch?v=Sh2vn13Wakg"
-      },
-      {
-        "rank": 25,
-        "name": "Más Rápido",
-        "artist": "vianova",
-        "album": "Hit It!",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02daeb2cc78f4a1335ffe9ea6f",
-        "spotify_url": "https://open.spotify.com/track/4PQrriLa0NasnTnkjBe9dp",
-        "youtube_video_id": "wBXcBccTSTQ",
-        "youtube_url": "https://www.youtube.com/watch?v=wBXcBccTSTQ"
       }
     ]
   }
