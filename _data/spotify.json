@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16",
+  "fetched_at": "2026-11-23",
   "month": {
     "time_range": "short_term",
     "tracks": [
@@ -25,6 +25,16 @@
       },
       {
         "rank": 3,
+        "name": "Poison Dart Frog",
+        "artist": "Midwinter",
+        "album": "Is There Anything You Want to Say?",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02cad441df90c5a5b265782f77",
+        "spotify_url": "https://open.spotify.com/track/4dZVuMGI3k3D1oMIqI6jf7",
+        "youtube_video_id": "jpChGa--AVI",
+        "youtube_url": "https://www.youtube.com/watch?v=jpChGa--AVI"
+      },
+      {
+        "rank": 4,
         "name": "Changeling",
         "artist": "Cold Night For Alligators",
         "album": "With All That’s Left",
@@ -34,7 +44,7 @@
         "youtube_url": "https://www.youtube.com/watch?v=OD7Z5Sm_5LE"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "I Am Only Fear",
         "artist": "Cold Night For Alligators",
         "album": "With All That’s Left",
@@ -44,24 +54,14 @@
         "youtube_url": "https://www.youtube.com/watch?v=yAWxchTwu10"
       },
       {
-        "rank": 5,
-        "name": "Starbreather",
-        "artist": "Above, Below",
-        "album": "I Guess It Was Nowhere",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02601b9b0073cbca7624a25fee",
-        "spotify_url": "https://open.spotify.com/track/2EmOv35dL1ZOoYQo49yjk7",
-        "youtube_video_id": "Gke5aKXFcOA",
-        "youtube_url": "https://www.youtube.com/watch?v=Gke5aKXFcOA"
-      },
-      {
         "rank": 6,
-        "name": "In Rain (Portal)",
-        "artist": "Above, Below",
-        "album": "I Guess It Was Nowhere",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02601b9b0073cbca7624a25fee",
-        "spotify_url": "https://open.spotify.com/track/3ySlQDKiNmIURoSrdV5pCw",
-        "youtube_video_id": "KUVwc3QQ-KY",
-        "youtube_url": "https://www.youtube.com/watch?v=KUVwc3QQ-KY"
+        "name": "split",
+        "artist": "thrown",
+        "album": "UNWANTED",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e028b6fc34b503419260f140f9c",
+        "spotify_url": "https://open.spotify.com/track/6b1nyF4IrAI4d1GRmTnxAQ",
+        "youtube_video_id": "L1p019wVrog",
+        "youtube_url": "https://www.youtube.com/watch?v=L1p019wVrog"
       },
       {
         "rank": 7,
@@ -70,31 +70,21 @@
         "album": "With All That’s Left",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02cf23347a79204f1116d522a2",
         "spotify_url": "https://open.spotify.com/track/5juX3EFewERf6qmxPN9Fi0",
-        "youtube_video_id": "aAbLalcmN8o",
-        "youtube_url": "https://www.youtube.com/watch?v=aAbLalcmN8o"
+        "youtube_video_id": "q0-MO1OZKwA",
+        "youtube_url": "https://www.youtube.com/watch?v=q0-MO1OZKwA"
       },
       {
         "rank": 8,
-        "name": "Stay Still",
-        "artist": "Ice Sealed Eyes",
-        "album": "Tape 1: Far Away",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02356cc4017bfc34cd8132f314",
-        "spotify_url": "https://open.spotify.com/track/4DmOY29ltxyg8uN4Ydx7Hb",
-        "youtube_video_id": "_Xsg9P0f2ng",
-        "youtube_url": "https://www.youtube.com/watch?v=_Xsg9P0f2ng"
+        "name": "critic",
+        "artist": "thrown",
+        "album": "UNWANTED",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e028b6fc34b503419260f140f9c",
+        "spotify_url": "https://open.spotify.com/track/6CRHRXPKkPWaOpXJtMvgBS",
+        "youtube_video_id": "_ZEBPzETt80",
+        "youtube_url": "https://www.youtube.com/watch?v=_ZEBPzETt80"
       },
       {
         "rank": 9,
-        "name": "Theme",
-        "artist": "Loathe",
-        "album": "I Let It in and It Took Everything",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02101232ffd5af0e3c37e2c528",
-        "spotify_url": "https://open.spotify.com/track/00OxHr6A8m97br35tPrDZR",
-        "youtube_video_id": "eRrain4zwHs",
-        "youtube_url": "https://www.youtube.com/watch?v=eRrain4zwHs"
-      },
-      {
-        "rank": 10,
         "name": "These Blind Spots",
         "artist": "Cold Night For Alligators",
         "album": "With All That’s Left",
@@ -102,6 +92,16 @@
         "spotify_url": "https://open.spotify.com/track/0exb0OIdlygZCn8khrZc46",
         "youtube_video_id": "H3_FC6aEuXU",
         "youtube_url": "https://www.youtube.com/watch?v=H3_FC6aEuXU"
+      },
+      {
+        "rank": 10,
+        "name": "Dance For You",
+        "artist": "Cold Night For Alligators",
+        "album": "With All That’s Left",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02cf23347a79204f1116d522a2",
+        "spotify_url": "https://open.spotify.com/track/56O1HPR9bfVYKaUL3wANbv",
+        "youtube_video_id": "IygPm9KTHUA",
+        "youtube_url": "https://www.youtube.com/watch?v=IygPm9KTHUA"
       }
     ]
   },
@@ -155,8 +155,8 @@
         "album": "Even In Arcadia",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02882265cd9bdded9ea9a153b9",
         "spotify_url": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1",
-        "youtube_video_id": "jO0mQb07W_g",
-        "youtube_url": "https://www.youtube.com/watch?v=jO0mQb07W_g"
+        "youtube_video_id": "4iSvoQNfrrk",
+        "youtube_url": "https://www.youtube.com/watch?v=4iSvoQNfrrk"
       },
       {
         "rank": 6,
@@ -245,8 +245,8 @@
         "album": "Even In Arcadia",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02882265cd9bdded9ea9a153b9",
         "spotify_url": "https://open.spotify.com/track/3enIFKYJKSVyjXVzmup28I",
-        "youtube_video_id": "pOgWzxUvrmw",
-        "youtube_url": "https://www.youtube.com/watch?v=pOgWzxUvrmw"
+        "youtube_video_id": "0NDqYZVbpho",
+        "youtube_url": "https://www.youtube.com/watch?v=0NDqYZVbpho"
       },
       {
         "rank": 15,
